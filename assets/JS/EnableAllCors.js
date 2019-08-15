@@ -1,1 +1,1 @@
-
+"use strict";function t(){}
