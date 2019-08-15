@@ -2,959 +2,975 @@
     "countries": [
         {
             "country": "Afghanistan",
-            "abbreviation": "AF"
+            "government": "Islamic Emirate"
         },
         {
             "country": "Albania",
-            "abbreviation": "AL"
+            "government": "Republic"
         },
         {
             "country": "Algeria",
-            "abbreviation": "DZ"
+            "government": "Republic"
         },
         {
             "country": "American Samoa",
-            "abbreviation": "AS"
+            "government": "US Territory"
         },
         {
             "country": "Andorra",
-            "abbreviation": "AD"
+            "government": "Parliamentary Coprincipality"
         },
         {
             "country": "Angola",
-            "abbreviation": "AO"
+            "government": "Republic"
         },
         {
             "country": "Anguilla",
-            "abbreviation": "AI"
+            "government": "Dependent Territory of the UK"
         },
         {
             "country": "Antarctica",
-            "abbreviation": "AQ"
+            "government": "Co-administrated"
         },
         {
             "country": "Antigua and Barbuda",
-            "abbreviation": "AG"
+            "government": "Constitutional Monarchy"
         },
         {
             "country": "Argentina",
-            "abbreviation": "AR"
+            "government": "Federal Republic"
         },
         {
             "country": "Armenia",
-            "abbreviation": "AM"
+            "government": "Republic"
         },
         {
             "country": "Aruba",
-            "abbreviation": "AW"
+            "government": "Nonmetropolitan Territory of The Netherlands"
         },
         {
             "country": "Australia",
-            "abbreviation": "AU"
+            "government": "Federation Constitutional Monarchy"
         },
         {
             "country": "Austria",
-            "abbreviation": "AT"
+            "government": "Federal Republic"
         },
         {
             "country": "Azerbaijan",
-            "abbreviation": "AZ"
+            "government": "Federal Republic"
         },
         {
             "country": "Bahamas",
-            "abbreviation": "BS"
+            "government": "Constitutional Monarchy"
         },
         {
             "country": "Bahrain",
-            "abbreviation": "BH"
+            "government": "Monarchy (Emirate)"
         },
         {
             "country": "Bangladesh",
-            "abbreviation": "BD"
+            "government": "Republic"
         },
         {
             "country": "Barbados",
-            "abbreviation": "BB"
+            "government": "Constitutional Monarchy"
         },
         {
             "country": "Belarus",
-            "abbreviation": "BY"
+            "government": "Republic"
         },
         {
             "country": "Belgium",
-            "abbreviation": "BE"
+            "government": "Federation Constitutional Monarchy"
         },
         {
             "country": "Belize",
-            "abbreviation": "BZ"
+            "government": "Constitutional Monarchy"
         },
         {
             "country": "Benin",
-            "abbreviation": "BJ"
+            "government": "Republic"
         },
         {
             "country": "Bermuda",
-            "abbreviation": "BM"
+            "government": "Dependent Territory of the UK"
         },
         {
             "country": "Bhutan",
-            "abbreviation": "BT"
+            "government": "Monarchy"
         },
         {
             "country": "Bolivia",
-            "abbreviation": "BO"
+            "government": "Republic"
         },
         {
             "country": "Bosnia and Herzegovina",
-            "abbreviation": "BA"
+            "government": "Federal Republic"
         },
         {
             "country": "Botswana",
-            "abbreviation": "BW"
+            "government": "Republic"
         },
         {
             "country": "Bouvet Island",
-            "abbreviation": "BV"
+            "government": "Dependent Territory of Norway"
         },
         {
             "country": "Brazil",
-            "abbreviation": "BR"
+            "government": "Federal Republic"
         },
         {
             "country": "British Indian Ocean Territory",
-            "abbreviation": "IO"
+            "government": "Dependent Territory of the UK"
         },
         {
             "country": "Brunei",
-            "abbreviation": "BN"
+            "government": "Monarchy (Sultanate)"
         },
         {
             "country": "Bulgaria",
-            "abbreviation": "BG"
+            "government": "Republic"
         },
         {
             "country": "Burkina Faso",
-            "abbreviation": "BF"
+            "government": "Republic"
         },
         {
             "country": "Burundi",
-            "abbreviation": "BI"
+            "government": "Republic"
         },
         {
             "country": "Cambodia",
-            "abbreviation": "KH"
+            "government": "Constitutional Monarchy"
         },
         {
             "country": "Cameroon",
-            "abbreviation": "CM"
+            "government": "Republic"
         },
         {
             "country": "Canada",
-            "abbreviation": "CA"
+            "government": "Constitutional Monarchy, Federation"
         },
         {
             "country": "Cape Verde",
-            "abbreviation": "CV"
+            "government": "Republic"
         },
         {
             "country": "Cayman Islands",
-            "abbreviation": "KY"
+            "government": "Dependent Territory of the UK"
         },
         {
             "country": "Central African Republic",
-            "abbreviation": "CF"
+            "government": "Republic"
         },
         {
             "country": "Chad",
-            "abbreviation": "TD"
+            "government": "Republic"
         },
         {
             "country": "Chile",
-            "abbreviation": "CL"
+            "government": "Republic"
         },
         {
             "country": "China",
-            "abbreviation": "CN"
+            "government": "People's Republic"
         },
         {
             "country": "Christmas Island",
-            "abbreviation": "CX"
+            "government": "Territory of Australia"
         },
         {
             "country": "Cocos (Keeling) Islands",
-            "abbreviation": "CC"
+            "government": "Territory of Australia"
         },
         {
             "country": "Colombia",
-            "abbreviation": "CO"
+            "government": "Republic"
         },
         {
             "country": "Comoros",
-            "abbreviation": "KM"
+            "government": "Republic"
         },
         {
             "country": "Congo",
-            "abbreviation": "CG"
+            "government": "Republic"
         },
         {
             "country": "Cook Islands",
-            "abbreviation": "CK"
+            "government": "Nonmetropolitan Territory of New Zealand"
         },
         {
             "country": "Costa Rica",
-            "abbreviation": "CR"
+            "government": "Republic"
         },
         {
             "country": "Croatia",
-            "abbreviation": "HR"
+            "government": "Republic"
         },
         {
             "country": "Cuba",
-            "abbreviation": "CU"
+            "government": "Socialistic Republic"
         },
         {
             "country": "Cyprus",
-            "abbreviation": "CY"
+            "government": "Republic"
         },
         {
             "country": "Czech Republic",
-            "abbreviation": "CZ"
+            "government": "Republic"
         },
         {
             "country": "Denmark",
-            "abbreviation": "DK"
+            "government": "Constitutional Monarchy"
         },
         {
             "country": "Djibouti",
-            "abbreviation": "DJ"
+            "government": "Republic"
         },
         {
             "country": "Dominica",
-            "abbreviation": "DM"
+            "government": "Republic"
         },
         {
             "country": "Dominican Republic",
-            "abbreviation": "DO"
+            "government": "Republic"
         },
         {
             "country": "East Timor",
-            "abbreviation": "TP"
+            "government": "Administrated by the UN"
         },
         {
             "country": "Ecuador",
-            "abbreviation": "EC"
+            "government": "Republic"
         },
         {
             "country": "Egypt",
-            "abbreviation": "EG"
+            "government": "Republic"
         },
         {
             "country": "El Salvador",
-            "abbreviation": "SV"
+            "government": "Republic"
+        },
+        {
+            "country": "England",
+            "government": null
         },
         {
             "country": "Equatorial Guinea",
-            "abbreviation": "GQ"
+            "government": "Republic"
         },
         {
             "country": "Eritrea",
-            "abbreviation": "ER"
+            "government": "Republic"
         },
         {
             "country": "Estonia",
-            "abbreviation": "EE"
+            "government": "Republic"
         },
         {
             "country": "Ethiopia",
-            "abbreviation": "ET"
+            "government": "Republic"
         },
         {
             "country": "Falkland Islands",
-            "abbreviation": "FK"
+            "government": "Dependent Territory of the UK"
         },
         {
             "country": "Faroe Islands",
-            "abbreviation": "FO"
+            "government": "Part of Denmark"
         },
         {
             "country": "Fiji Islands",
-            "abbreviation": "FJ"
+            "government": "Republic"
         },
         {
             "country": "Finland",
-            "abbreviation": "FI"
+            "government": "Republic"
         },
         {
             "country": "France",
-            "abbreviation": "FR"
+            "government": "Republic"
         },
         {
             "country": "French Guiana",
-            "abbreviation": "GF"
+            "government": "Overseas Department of France"
         },
         {
             "country": "French Polynesia",
-            "abbreviation": "PF"
+            "government": "Nonmetropolitan Territory of France"
         },
         {
             "country": "French Southern territories",
-            "abbreviation": "TF"
+            "government": "Nonmetropolitan Territory of France"
         },
         {
             "country": "Gabon",
-            "abbreviation": "GA"
+            "government": "Republic"
         },
         {
             "country": "Gambia",
-            "abbreviation": "GM"
+            "government": "Republic"
         },
         {
             "country": "Georgia",
-            "abbreviation": "GE"
+            "government": "Republic"
         },
         {
             "country": "Germany",
-            "abbreviation": "DE"
+            "government": "Federal Republic"
         },
         {
             "country": "Ghana",
-            "abbreviation": "GH"
+            "government": "Republic"
         },
         {
             "country": "Gibraltar",
-            "abbreviation": "GI"
+            "government": "Dependent Territory of the UK"
         },
         {
             "country": "Greece",
-            "abbreviation": "GR"
+            "government": "Republic"
         },
         {
             "country": "Greenland",
-            "abbreviation": "GL"
+            "government": "Part of Denmark"
         },
         {
             "country": "Grenada",
-            "abbreviation": "GD"
+            "government": "Constitutional Monarchy"
         },
         {
             "country": "Guadeloupe",
-            "abbreviation": "GP"
+            "government": "Overseas Department of France"
         },
         {
             "country": "Guam",
-            "abbreviation": "GU"
+            "government": "US Territory"
         },
         {
             "country": "Guatemala",
-            "abbreviation": "GT"
+            "government": "Republic"
         },
         {
             "country": "Guinea",
-            "abbreviation": "GN"
+            "government": "Republic"
         },
         {
             "country": "Guinea-Bissau",
-            "abbreviation": "GW"
+            "government": "Republic"
         },
         {
             "country": "Guyana",
-            "abbreviation": "GY"
+            "government": "Republic"
         },
         {
             "country": "Haiti",
-            "abbreviation": "HT"
+            "government": "Republic"
         },
         {
             "country": "Heard Island and McDonald Islands",
-            "abbreviation": "HM"
+            "government": "Territory of Australia"
         },
         {
             "country": "Holy See (Vatican City State)",
-            "abbreviation": "VA"
+            "government": "Independent Church State"
         },
         {
             "country": "Honduras",
-            "abbreviation": "HN"
+            "government": "Republic"
         },
         {
             "country": "Hong Kong",
-            "abbreviation": "HK"
+            "government": "Special Administrative Region of China"
         },
         {
             "country": "Hungary",
-            "abbreviation": "HU"
+            "government": "Republic"
         },
         {
             "country": "Iceland",
-            "abbreviation": "IS"
+            "government": "Republic"
         },
         {
             "country": "India",
-            "abbreviation": "IN"
+            "government": "Federal Republic"
         },
         {
             "country": "Indonesia",
-            "abbreviation": "ID"
+            "government": "Republic"
         },
         {
             "country": "Iran",
-            "abbreviation": "IR"
+            "government": "Islamic Republic"
         },
         {
             "country": "Iraq",
-            "abbreviation": "IQ"
+            "government": "Republic"
         },
         {
             "country": "Ireland",
-            "abbreviation": "IE"
+            "government": "Republic"
         },
         {
             "country": "Israel",
-            "abbreviation": "IL"
+            "government": "Republic"
         },
         {
             "country": "Italy",
-            "abbreviation": "IT"
+            "government": "Republic"
         },
         {
             "country": "Ivory Coast",
-            "abbreviation": "CI"
+            "government": "Republic"
         },
         {
             "country": "Jamaica",
-            "abbreviation": "JM"
+            "government": "Constitutional Monarchy"
         },
         {
             "country": "Japan",
-            "abbreviation": "JP"
+            "government": "Constitutional Monarchy"
         },
         {
             "country": "Jordan",
-            "abbreviation": "JO"
+            "government": "Constitutional Monarchy"
         },
         {
             "country": "Kazakstan",
-            "abbreviation": "KZ"
+            "government": "Republic"
         },
         {
             "country": "Kenya",
-            "abbreviation": "KE"
+            "government": "Republic"
         },
         {
             "country": "Kiribati",
-            "abbreviation": "KI"
+            "government": "Republic"
         },
         {
             "country": "Kuwait",
-            "abbreviation": "KW"
+            "government": "Constitutional Monarchy (Emirate)"
         },
         {
             "country": "Kyrgyzstan",
-            "abbreviation": "KG"
+            "government": "Republic"
         },
         {
             "country": "Laos",
-            "abbreviation": "LA"
+            "government": "Republic"
         },
         {
             "country": "Latvia",
-            "abbreviation": "LV"
+            "government": "Republic"
         },
         {
             "country": "Lebanon",
-            "abbreviation": "LB"
+            "government": "Republic"
         },
         {
             "country": "Lesotho",
-            "abbreviation": "LS"
+            "government": "Constitutional Monarchy"
         },
         {
             "country": "Liberia",
-            "abbreviation": "LR"
+            "government": "Republic"
         },
         {
             "country": "Libyan Arab Jamahiriya",
-            "abbreviation": "LY"
+            "government": "Socialistic State"
         },
         {
             "country": "Liechtenstein",
-            "abbreviation": "LI"
+            "government": "Constitutional Monarchy"
         },
         {
             "country": "Lithuania",
-            "abbreviation": "LT"
+            "government": "Republic"
         },
         {
             "country": "Luxembourg",
-            "abbreviation": "LU"
+            "government": "Constitutional Monarchy"
         },
         {
             "country": "Macao",
-            "abbreviation": "MO"
+            "government": "Special Administrative Region of China"
         },
         {
             "country": "North Macedonia",
-            "abbreviation": "MK"
+            "government": "Republic"
         },
         {
             "country": "Madagascar",
-            "abbreviation": "MG"
+            "government": "Federal Republic"
         },
         {
             "country": "Malawi",
-            "abbreviation": "MW"
+            "government": "Republic"
         },
         {
             "country": "Malaysia",
-            "abbreviation": "MY"
+            "government": "Constitutional Monarchy"
         },
         {
             "country": "Maldives",
-            "abbreviation": "MV"
+            "government": "Republic"
         },
         {
             "country": "Mali",
-            "abbreviation": "ML"
+            "government": "Republic"
         },
         {
             "country": "Malta",
-            "abbreviation": "MT"
+            "government": "Republic"
         },
         {
             "country": "Marshall Islands",
-            "abbreviation": "MH"
+            "government": "Republic"
         },
         {
             "country": "Martinique",
-            "abbreviation": "MQ"
+            "government": "Overseas Department of France"
         },
         {
             "country": "Mauritania",
-            "abbreviation": "MR"
+            "government": "Republic"
         },
         {
             "country": "Mauritius",
-            "abbreviation": "MU"
+            "government": "Republic"
         },
         {
             "country": "Mayotte",
-            "abbreviation": "YT"
+            "government": "Territorial Collectivity of France"
         },
         {
             "country": "Mexico",
-            "abbreviation": "MX"
+            "government": "Federal Republic"
         },
         {
             "country": "Micronesia, Federated States of",
-            "abbreviation": "FM"
+            "government": "Federal Republic"
         },
         {
             "country": "Moldova",
-            "abbreviation": "MD"
+            "government": "Republic"
         },
         {
             "country": "Monaco",
-            "abbreviation": "MC"
+            "government": "Constitutional Monarchy"
         },
         {
             "country": "Mongolia",
-            "abbreviation": "MN"
+            "government": "Republic"
         },
         {
             "country": "Montserrat",
-            "abbreviation": "MS"
+            "government": "Dependent Territory of the UK"
         },
         {
             "country": "Morocco",
-            "abbreviation": "MA"
+            "government": "Constitutional Monarchy"
         },
         {
             "country": "Mozambique",
-            "abbreviation": "MZ"
+            "government": "Republic"
         },
         {
             "country": "Myanmar",
-            "abbreviation": "MM"
+            "government": "Republic"
         },
         {
             "country": "Namibia",
-            "abbreviation": "NA"
+            "government": "Republic"
         },
         {
             "country": "Nauru",
-            "abbreviation": "NR"
+            "government": "Republic"
         },
         {
             "country": "Nepal",
-            "abbreviation": "NP"
+            "government": "Federal parliamentary republic"
         },
         {
             "country": "Netherlands",
-            "abbreviation": "NL"
+            "government": "Constitutional Monarchy"
         },
         {
             "country": "Netherlands Antilles",
-            "abbreviation": "AN"
+            "government": "Nonmetropolitan Territory of The Netherlands"
         },
         {
             "country": "New Caledonia",
-            "abbreviation": "NC"
+            "government": "Nonmetropolitan Territory of France"
         },
         {
             "country": "New Zealand",
-            "abbreviation": "NZ"
+            "government": "Constitutional Monarchy"
         },
         {
             "country": "Nicaragua",
-            "abbreviation": "NI"
+            "government": "Republic"
         },
         {
             "country": "Niger",
-            "abbreviation": "NE"
+            "government": "Republic"
         },
         {
             "country": "Nigeria",
-            "abbreviation": "NG"
+            "government": "Federal Republic"
         },
         {
             "country": "Niue",
-            "abbreviation": "NU"
+            "government": "Nonmetropolitan Territory of New Zealand"
         },
         {
             "country": "Norfolk Island",
-            "abbreviation": "NF"
+            "government": "Territory of Australia"
         },
         {
             "country": "North Korea",
-            "abbreviation": "KP"
+            "government": "Socialistic Republic"
+        },
+        {
+            "country": "Northern Ireland",
+            "government": null
         },
         {
             "country": "Northern Mariana Islands",
-            "abbreviation": "MP"
+            "government": "Commonwealth of the US"
         },
         {
             "country": "Norway",
-            "abbreviation": "NO"
+            "government": "Constitutional Monarchy"
         },
         {
             "country": "Oman",
-            "abbreviation": "OM"
+            "government": "Monarchy (Sultanate)"
         },
         {
             "country": "Pakistan",
-            "abbreviation": "PK"
+            "government": "Republic"
         },
         {
             "country": "Palau",
-            "abbreviation": "PW"
+            "government": "Republic"
         },
         {
             "country": "Palestine",
-            "abbreviation": "PS"
+            "government": "Autonomous Area"
         },
         {
             "country": "Panama",
-            "abbreviation": "PA"
+            "government": "Republic"
         },
         {
             "country": "Papua New Guinea",
-            "abbreviation": "PG"
+            "government": "Constitutional Monarchy"
         },
         {
             "country": "Paraguay",
-            "abbreviation": "PY"
+            "government": "Republic"
         },
         {
             "country": "Peru",
-            "abbreviation": "PE"
+            "government": "Republic"
         },
         {
             "country": "Philippines",
-            "abbreviation": "PH"
+            "government": "Republic"
         },
         {
             "country": "Pitcairn",
-            "abbreviation": "PN"
+            "government": "Dependent Territory of the UK"
         },
         {
             "country": "Poland",
-            "abbreviation": "PL"
+            "government": "Republic"
         },
         {
             "country": "Portugal",
-            "abbreviation": "PT"
+            "government": "Republic"
         },
         {
             "country": "Puerto Rico",
-            "abbreviation": "PR"
+            "government": "Commonwealth of the US"
         },
         {
             "country": "Qatar",
-            "abbreviation": "QA"
+            "government": "Monarchy"
         },
         {
             "country": "Reunion",
-            "abbreviation": "RE"
+            "government": "Overseas Department of France"
         },
         {
             "country": "Romania",
-            "abbreviation": "RO"
+            "government": "Republic"
         },
         {
             "country": "Russian Federation",
-            "abbreviation": "RU"
+            "government": "Federal Republic"
         },
         {
             "country": "Rwanda",
-            "abbreviation": "RW"
+            "government": "Republic"
         },
         {
             "country": "Saint Helena",
-            "abbreviation": "SH"
+            "government": "Dependent Territory of the UK"
         },
         {
             "country": "Saint Kitts and Nevis",
-            "abbreviation": "KN"
+            "government": "Constitutional Monarchy"
         },
         {
             "country": "Saint Lucia",
-            "abbreviation": "LC"
+            "government": "Constitutional Monarchy"
         },
         {
             "country": "Saint Pierre and Miquelon",
-            "abbreviation": "PM"
+            "government": "Territorial Collectivity of France"
         },
         {
             "country": "Saint Vincent and the Grenadines",
-            "abbreviation": "VC"
+            "government": "Constitutional Monarchy"
         },
         {
             "country": "Samoa",
-            "abbreviation": "WS"
+            "government": "Parlementary Monarchy"
         },
         {
             "country": "San Marino",
-            "abbreviation": "SM"
+            "government": "Republic"
         },
         {
             "country": "Sao Tome and Principe",
-            "abbreviation": "ST"
+            "government": "Republic"
         },
         {
             "country": "Saudi Arabia",
-            "abbreviation": "SA"
+            "government": "Monarchy"
+        },
+        {
+            "country": "Scotland",
+            "government": null
         },
         {
             "country": "Senegal",
-            "abbreviation": "SN"
+            "government": "Republic"
         },
         {
             "country": "Seychelles",
-            "abbreviation": "SC"
+            "government": "Republic"
         },
         {
             "country": "Sierra Leone",
-            "abbreviation": "SL"
+            "government": "Republic"
         },
         {
             "country": "Singapore",
-            "abbreviation": "SG"
+            "government": "Republic"
         },
         {
             "country": "Slovakia",
-            "abbreviation": "SK"
+            "government": "Republic"
         },
         {
             "country": "Slovenia",
-            "abbreviation": "SI"
+            "government": "Republic"
         },
         {
             "country": "Solomon Islands",
-            "abbreviation": "SB"
+            "government": "Constitutional Monarchy"
         },
         {
             "country": "Somalia",
-            "abbreviation": "SO"
+            "government": "Republic"
         },
         {
             "country": "South Africa",
-            "abbreviation": "ZA"
+            "government": "Republic"
         },
         {
             "country": "South Georgia and the South Sandwich Islands",
-            "abbreviation": "GS"
+            "government": "Dependent Territory of the UK"
         },
         {
             "country": "South Korea",
-            "abbreviation": "KR"
+            "government": "Republic"
         },
         {
             "country": "South Sudan",
-            "abbreviation": "SS"
+            "government": null
         },
         {
             "country": "Spain",
-            "abbreviation": "ES"
+            "government": "Constitutional Monarchy"
         },
         {
-            "country": "Sri Lanka",
-            "abbreviation": "LK"
+            "country": "SriLanka",
+            "government": null
         },
         {
             "country": "Sudan",
-            "abbreviation": "SD"
+            "government": "Islamic Republic"
         },
         {
             "country": "Suriname",
-            "abbreviation": "SR"
+            "government": "Republic"
         },
         {
             "country": "Svalbard and Jan Mayen",
-            "abbreviation": "SJ"
+            "government": "Dependent Territory of Norway"
         },
         {
             "country": "Swaziland",
-            "abbreviation": "SZ"
+            "government": "Monarchy"
         },
         {
             "country": "Sweden",
-            "abbreviation": "SE"
+            "government": "Constitutional Monarchy"
         },
         {
             "country": "Switzerland",
-            "abbreviation": "CH"
+            "government": "Federation"
         },
         {
             "country": "Syria",
-            "abbreviation": "SY"
+            "government": "Republic"
         },
         {
             "country": "Tajikistan",
-            "abbreviation": "TJ"
+            "government": "Republic"
         },
         {
             "country": "Tanzania",
-            "abbreviation": "TZ"
+            "government": "Republic"
         },
         {
             "country": "Thailand",
-            "abbreviation": "TH"
+            "government": "Constitutional Monarchy"
         },
         {
             "country": "The Democratic Republic of Congo",
-            "abbreviation": "CD"
+            "government": null
         },
         {
             "country": "Togo",
-            "abbreviation": "TG"
+            "government": "Republic"
         },
         {
             "country": "Tokelau",
-            "abbreviation": "TK"
+            "government": "Nonmetropolitan Territory of New Zealand"
         },
         {
             "country": "Tonga",
-            "abbreviation": "TO"
+            "government": "Monarchy"
         },
         {
             "country": "Trinidad and Tobago",
-            "abbreviation": "TT"
+            "government": "Republic"
         },
         {
             "country": "Tunisia",
-            "abbreviation": "TN"
+            "government": "Republic"
         },
         {
             "country": "Turkey",
-            "abbreviation": "TR"
+            "government": "Republic"
         },
         {
             "country": "Turkmenistan",
-            "abbreviation": "TM"
+            "government": "Republic"
         },
         {
             "country": "Turks and Caicos Islands",
-            "abbreviation": "TC"
+            "government": "Dependent Territory of the UK"
         },
         {
             "country": "Tuvalu",
-            "abbreviation": "TV"
+            "government": "Constitutional Monarchy"
         },
         {
             "country": "Uganda",
-            "abbreviation": "UG"
+            "government": "Republic"
         },
         {
             "country": "Ukraine",
-            "abbreviation": "UA"
+            "government": "Republic"
         },
         {
             "country": "United Arab Emirates",
-            "abbreviation": "AE"
+            "government": "Emirate Federation"
         },
         {
             "country": "United Kingdom",
-            "abbreviation": "GB"
+            "government": "Constitutional Monarchy"
         },
         {
             "country": "United States",
-            "abbreviation": "US"
+            "government": "Federal Republic"
         },
         {
             "country": "United States Minor Outlying Islands",
-            "abbreviation": "UM"
+            "government": "Dependent Territory of the US"
         },
         {
             "country": "Uruguay",
-            "abbreviation": "UY"
+            "government": "Republic"
         },
         {
             "country": "Uzbekistan",
-            "abbreviation": "UZ"
+            "government": "Republic"
         },
         {
             "country": "Vanuatu",
-            "abbreviation": "VU"
+            "government": "Republic"
         },
         {
             "country": "Venezuela",
-            "abbreviation": "VE"
+            "government": "Federal Republic"
         },
         {
             "country": "Vietnam",
-            "abbreviation": "VN"
+            "government": "Socialistic Republic"
         },
         {
             "country": "Virgin Islands, British",
-            "abbreviation": "VG"
+            "government": null
         },
         {
             "country": "Virgin Islands, U.S.",
-            "abbreviation": "VI"
+            "government": null
+        },
+        {
+            "country": "Wales",
+            "government": null
         },
         {
             "country": "Wallis and Futuna",
-            "abbreviation": "WF"
+            "government": "Nonmetropolitan Territory of France"
         },
         {
             "country": "Western Sahara",
-            "abbreviation": "EH"
+            "government": "Occupied by Marocco"
         },
         {
             "country": "Yemen",
-            "abbreviation": "YE"
+            "government": "Republic"
         },
         {
             "country": "Yugoslavia",
-            "abbreviation": "YU"
+            "government": "Federal Republic"
         },
         {
             "country": "Zambia",
-            "abbreviation": "ZM"
+            "government": "Republic"
         },
         {
             "country": "Zimbabwe",
-            "abbreviation": "ZW"
+            "government": "Republic"
         }
     ]
 }

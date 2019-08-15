@@ -2,959 +2,975 @@
     "countries": [
         {
             "country": "Afghanistan",
-            "abbreviation": "AF"
+            "independence": "1919"
         },
         {
             "country": "Albania",
-            "abbreviation": "AL"
+            "independence": "1912"
         },
         {
             "country": "Algeria",
-            "abbreviation": "DZ"
+            "independence": "1962"
         },
         {
             "country": "American Samoa",
-            "abbreviation": "AS"
+            "independence": null
         },
         {
             "country": "Andorra",
-            "abbreviation": "AD"
+            "independence": "1278"
         },
         {
             "country": "Angola",
-            "abbreviation": "AO"
+            "independence": "1975"
         },
         {
             "country": "Anguilla",
-            "abbreviation": "AI"
+            "independence": null
         },
         {
             "country": "Antarctica",
-            "abbreviation": "AQ"
+            "independence": null
         },
         {
             "country": "Antigua and Barbuda",
-            "abbreviation": "AG"
+            "independence": "1981"
         },
         {
             "country": "Argentina",
-            "abbreviation": "AR"
+            "independence": "1816"
         },
         {
             "country": "Armenia",
-            "abbreviation": "AM"
+            "independence": "1991"
         },
         {
             "country": "Aruba",
-            "abbreviation": "AW"
+            "independence": null
         },
         {
             "country": "Australia",
-            "abbreviation": "AU"
+            "independence": "1901"
         },
         {
             "country": "Austria",
-            "abbreviation": "AT"
+            "independence": "1918"
         },
         {
             "country": "Azerbaijan",
-            "abbreviation": "AZ"
+            "independence": "1991"
         },
         {
             "country": "Bahamas",
-            "abbreviation": "BS"
+            "independence": "1973"
         },
         {
             "country": "Bahrain",
-            "abbreviation": "BH"
+            "independence": "1971"
         },
         {
             "country": "Bangladesh",
-            "abbreviation": "BD"
+            "independence": "1971"
         },
         {
             "country": "Barbados",
-            "abbreviation": "BB"
+            "independence": "1966"
         },
         {
             "country": "Belarus",
-            "abbreviation": "BY"
+            "independence": "1991"
         },
         {
             "country": "Belgium",
-            "abbreviation": "BE"
+            "independence": "1830"
         },
         {
             "country": "Belize",
-            "abbreviation": "BZ"
+            "independence": "1981"
         },
         {
             "country": "Benin",
-            "abbreviation": "BJ"
+            "independence": "1960"
         },
         {
             "country": "Bermuda",
-            "abbreviation": "BM"
+            "independence": null
         },
         {
             "country": "Bhutan",
-            "abbreviation": "BT"
+            "independence": "1910"
         },
         {
             "country": "Bolivia",
-            "abbreviation": "BO"
+            "independence": "1825"
         },
         {
             "country": "Bosnia and Herzegovina",
-            "abbreviation": "BA"
+            "independence": "1992"
         },
         {
             "country": "Botswana",
-            "abbreviation": "BW"
+            "independence": "1966"
         },
         {
             "country": "Bouvet Island",
-            "abbreviation": "BV"
+            "independence": null
         },
         {
             "country": "Brazil",
-            "abbreviation": "BR"
+            "independence": "1822"
         },
         {
             "country": "British Indian Ocean Territory",
-            "abbreviation": "IO"
+            "independence": null
         },
         {
             "country": "Brunei",
-            "abbreviation": "BN"
+            "independence": "1984"
         },
         {
             "country": "Bulgaria",
-            "abbreviation": "BG"
+            "independence": "1908"
         },
         {
             "country": "Burkina Faso",
-            "abbreviation": "BF"
+            "independence": "1960"
         },
         {
             "country": "Burundi",
-            "abbreviation": "BI"
+            "independence": "1962"
         },
         {
             "country": "Cambodia",
-            "abbreviation": "KH"
+            "independence": "1953"
         },
         {
             "country": "Cameroon",
-            "abbreviation": "CM"
+            "independence": "1960"
         },
         {
             "country": "Canada",
-            "abbreviation": "CA"
+            "independence": "1867"
         },
         {
             "country": "Cape Verde",
-            "abbreviation": "CV"
+            "independence": "1975"
         },
         {
             "country": "Cayman Islands",
-            "abbreviation": "KY"
+            "independence": null
         },
         {
             "country": "Central African Republic",
-            "abbreviation": "CF"
+            "independence": "1960"
         },
         {
             "country": "Chad",
-            "abbreviation": "TD"
+            "independence": "1960"
         },
         {
             "country": "Chile",
-            "abbreviation": "CL"
+            "independence": "1810"
         },
         {
             "country": "China",
-            "abbreviation": "CN"
+            "independence": "-1523"
         },
         {
             "country": "Christmas Island",
-            "abbreviation": "CX"
+            "independence": null
         },
         {
             "country": "Cocos (Keeling) Islands",
-            "abbreviation": "CC"
+            "independence": null
         },
         {
             "country": "Colombia",
-            "abbreviation": "CO"
+            "independence": "1810"
         },
         {
             "country": "Comoros",
-            "abbreviation": "KM"
+            "independence": "1975"
         },
         {
             "country": "Congo",
-            "abbreviation": "CG"
+            "independence": "1960"
         },
         {
             "country": "Cook Islands",
-            "abbreviation": "CK"
+            "independence": null
         },
         {
             "country": "Costa Rica",
-            "abbreviation": "CR"
+            "independence": "1821"
         },
         {
             "country": "Croatia",
-            "abbreviation": "HR"
+            "independence": "1991"
         },
         {
             "country": "Cuba",
-            "abbreviation": "CU"
+            "independence": "1902"
         },
         {
             "country": "Cyprus",
-            "abbreviation": "CY"
+            "independence": "1960"
         },
         {
             "country": "Czech Republic",
-            "abbreviation": "CZ"
+            "independence": "1993"
         },
         {
             "country": "Denmark",
-            "abbreviation": "DK"
+            "independence": "800"
         },
         {
             "country": "Djibouti",
-            "abbreviation": "DJ"
+            "independence": "1977"
         },
         {
             "country": "Dominica",
-            "abbreviation": "DM"
+            "independence": "1978"
         },
         {
             "country": "Dominican Republic",
-            "abbreviation": "DO"
+            "independence": "1844"
         },
         {
             "country": "East Timor",
-            "abbreviation": "TP"
+            "independence": null
         },
         {
             "country": "Ecuador",
-            "abbreviation": "EC"
+            "independence": "1822"
         },
         {
             "country": "Egypt",
-            "abbreviation": "EG"
+            "independence": "1922"
         },
         {
             "country": "El Salvador",
-            "abbreviation": "SV"
+            "independence": "1841"
+        },
+        {
+            "country": "England",
+            "independence": null
         },
         {
             "country": "Equatorial Guinea",
-            "abbreviation": "GQ"
+            "independence": "1968"
         },
         {
             "country": "Eritrea",
-            "abbreviation": "ER"
+            "independence": "1993"
         },
         {
             "country": "Estonia",
-            "abbreviation": "EE"
+            "independence": "1991"
         },
         {
             "country": "Ethiopia",
-            "abbreviation": "ET"
+            "independence": "-1000"
         },
         {
             "country": "Falkland Islands",
-            "abbreviation": "FK"
+            "independence": null
         },
         {
             "country": "Faroe Islands",
-            "abbreviation": "FO"
+            "independence": null
         },
         {
             "country": "Fiji Islands",
-            "abbreviation": "FJ"
+            "independence": "1970"
         },
         {
             "country": "Finland",
-            "abbreviation": "FI"
+            "independence": "1917"
         },
         {
             "country": "France",
-            "abbreviation": "FR"
+            "independence": "843"
         },
         {
             "country": "French Guiana",
-            "abbreviation": "GF"
+            "independence": null
         },
         {
             "country": "French Polynesia",
-            "abbreviation": "PF"
+            "independence": null
         },
         {
             "country": "French Southern territories",
-            "abbreviation": "TF"
+            "independence": null
         },
         {
             "country": "Gabon",
-            "abbreviation": "GA"
+            "independence": "1960"
         },
         {
             "country": "Gambia",
-            "abbreviation": "GM"
+            "independence": "1965"
         },
         {
             "country": "Georgia",
-            "abbreviation": "GE"
+            "independence": "1991"
         },
         {
             "country": "Germany",
-            "abbreviation": "DE"
+            "independence": "1955"
         },
         {
             "country": "Ghana",
-            "abbreviation": "GH"
+            "independence": "1957"
         },
         {
             "country": "Gibraltar",
-            "abbreviation": "GI"
+            "independence": null
         },
         {
             "country": "Greece",
-            "abbreviation": "GR"
+            "independence": "1830"
         },
         {
             "country": "Greenland",
-            "abbreviation": "GL"
+            "independence": null
         },
         {
             "country": "Grenada",
-            "abbreviation": "GD"
+            "independence": "1974"
         },
         {
             "country": "Guadeloupe",
-            "abbreviation": "GP"
+            "independence": null
         },
         {
             "country": "Guam",
-            "abbreviation": "GU"
+            "independence": null
         },
         {
             "country": "Guatemala",
-            "abbreviation": "GT"
+            "independence": "1821"
         },
         {
             "country": "Guinea",
-            "abbreviation": "GN"
+            "independence": "1958"
         },
         {
             "country": "Guinea-Bissau",
-            "abbreviation": "GW"
+            "independence": "1974"
         },
         {
             "country": "Guyana",
-            "abbreviation": "GY"
+            "independence": "1966"
         },
         {
             "country": "Haiti",
-            "abbreviation": "HT"
+            "independence": "1804"
         },
         {
             "country": "Heard Island and McDonald Islands",
-            "abbreviation": "HM"
+            "independence": null
         },
         {
             "country": "Holy See (Vatican City State)",
-            "abbreviation": "VA"
+            "independence": "1929"
         },
         {
             "country": "Honduras",
-            "abbreviation": "HN"
+            "independence": "1838"
         },
         {
             "country": "Hong Kong",
-            "abbreviation": "HK"
+            "independence": null
         },
         {
             "country": "Hungary",
-            "abbreviation": "HU"
+            "independence": "1918"
         },
         {
             "country": "Iceland",
-            "abbreviation": "IS"
+            "independence": "1944"
         },
         {
             "country": "India",
-            "abbreviation": "IN"
+            "independence": "1947"
         },
         {
             "country": "Indonesia",
-            "abbreviation": "ID"
+            "independence": "1945"
         },
         {
             "country": "Iran",
-            "abbreviation": "IR"
+            "independence": "1906"
         },
         {
             "country": "Iraq",
-            "abbreviation": "IQ"
+            "independence": "1932"
         },
         {
             "country": "Ireland",
-            "abbreviation": "IE"
+            "independence": "1921"
         },
         {
             "country": "Israel",
-            "abbreviation": "IL"
+            "independence": "1948"
         },
         {
             "country": "Italy",
-            "abbreviation": "IT"
+            "independence": "1861"
         },
         {
             "country": "Ivory Coast",
-            "abbreviation": "CI"
+            "independence": "1960"
         },
         {
             "country": "Jamaica",
-            "abbreviation": "JM"
+            "independence": "1962"
         },
         {
             "country": "Japan",
-            "abbreviation": "JP"
+            "independence": "-660"
         },
         {
             "country": "Jordan",
-            "abbreviation": "JO"
+            "independence": "1946"
         },
         {
             "country": "Kazakstan",
-            "abbreviation": "KZ"
+            "independence": "1991"
         },
         {
             "country": "Kenya",
-            "abbreviation": "KE"
+            "independence": "1963"
         },
         {
             "country": "Kiribati",
-            "abbreviation": "KI"
+            "independence": "1979"
         },
         {
             "country": "Kuwait",
-            "abbreviation": "KW"
+            "independence": "1961"
         },
         {
             "country": "Kyrgyzstan",
-            "abbreviation": "KG"
+            "independence": "1991"
         },
         {
             "country": "Laos",
-            "abbreviation": "LA"
+            "independence": "1953"
         },
         {
             "country": "Latvia",
-            "abbreviation": "LV"
+            "independence": "1991"
         },
         {
             "country": "Lebanon",
-            "abbreviation": "LB"
+            "independence": "1941"
         },
         {
             "country": "Lesotho",
-            "abbreviation": "LS"
+            "independence": "1966"
         },
         {
             "country": "Liberia",
-            "abbreviation": "LR"
+            "independence": "1847"
         },
         {
             "country": "Libyan Arab Jamahiriya",
-            "abbreviation": "LY"
+            "independence": "1951"
         },
         {
             "country": "Liechtenstein",
-            "abbreviation": "LI"
+            "independence": "1806"
         },
         {
             "country": "Lithuania",
-            "abbreviation": "LT"
+            "independence": "1991"
         },
         {
             "country": "Luxembourg",
-            "abbreviation": "LU"
+            "independence": "1867"
         },
         {
             "country": "Macao",
-            "abbreviation": "MO"
+            "independence": null
         },
         {
             "country": "North Macedonia",
-            "abbreviation": "MK"
+            "independence": "1991"
         },
         {
             "country": "Madagascar",
-            "abbreviation": "MG"
+            "independence": "1960"
         },
         {
             "country": "Malawi",
-            "abbreviation": "MW"
+            "independence": "1964"
         },
         {
             "country": "Malaysia",
-            "abbreviation": "MY"
+            "independence": "1957"
         },
         {
             "country": "Maldives",
-            "abbreviation": "MV"
+            "independence": "1965"
         },
         {
             "country": "Mali",
-            "abbreviation": "ML"
+            "independence": "1960"
         },
         {
             "country": "Malta",
-            "abbreviation": "MT"
+            "independence": "1964"
         },
         {
             "country": "Marshall Islands",
-            "abbreviation": "MH"
+            "independence": "1990"
         },
         {
             "country": "Martinique",
-            "abbreviation": "MQ"
+            "independence": null
         },
         {
             "country": "Mauritania",
-            "abbreviation": "MR"
+            "independence": "1960"
         },
         {
             "country": "Mauritius",
-            "abbreviation": "MU"
+            "independence": "1968"
         },
         {
             "country": "Mayotte",
-            "abbreviation": "YT"
+            "independence": null
         },
         {
             "country": "Mexico",
-            "abbreviation": "MX"
+            "independence": "1810"
         },
         {
             "country": "Micronesia, Federated States of",
-            "abbreviation": "FM"
+            "independence": "1990"
         },
         {
             "country": "Moldova",
-            "abbreviation": "MD"
+            "independence": "1991"
         },
         {
             "country": "Monaco",
-            "abbreviation": "MC"
+            "independence": "1861"
         },
         {
             "country": "Mongolia",
-            "abbreviation": "MN"
+            "independence": "1921"
         },
         {
             "country": "Montserrat",
-            "abbreviation": "MS"
+            "independence": null
         },
         {
             "country": "Morocco",
-            "abbreviation": "MA"
+            "independence": "1956"
         },
         {
             "country": "Mozambique",
-            "abbreviation": "MZ"
+            "independence": "1975"
         },
         {
             "country": "Myanmar",
-            "abbreviation": "MM"
+            "independence": "1948"
         },
         {
             "country": "Namibia",
-            "abbreviation": "NA"
+            "independence": "1990"
         },
         {
             "country": "Nauru",
-            "abbreviation": "NR"
+            "independence": "1968"
         },
         {
             "country": "Nepal",
-            "abbreviation": "NP"
+            "independence": "1769"
         },
         {
             "country": "Netherlands",
-            "abbreviation": "NL"
+            "independence": "1581"
         },
         {
             "country": "Netherlands Antilles",
-            "abbreviation": "AN"
+            "independence": null
         },
         {
             "country": "New Caledonia",
-            "abbreviation": "NC"
+            "independence": null
         },
         {
             "country": "New Zealand",
-            "abbreviation": "NZ"
+            "independence": "1907"
         },
         {
             "country": "Nicaragua",
-            "abbreviation": "NI"
+            "independence": "1838"
         },
         {
             "country": "Niger",
-            "abbreviation": "NE"
+            "independence": "1960"
         },
         {
             "country": "Nigeria",
-            "abbreviation": "NG"
+            "independence": "1960"
         },
         {
             "country": "Niue",
-            "abbreviation": "NU"
+            "independence": null
         },
         {
             "country": "Norfolk Island",
-            "abbreviation": "NF"
+            "independence": null
         },
         {
             "country": "North Korea",
-            "abbreviation": "KP"
+            "independence": "1948"
+        },
+        {
+            "country": "Northern Ireland",
+            "independence": null
         },
         {
             "country": "Northern Mariana Islands",
-            "abbreviation": "MP"
+            "independence": null
         },
         {
             "country": "Norway",
-            "abbreviation": "NO"
+            "independence": "1905"
         },
         {
             "country": "Oman",
-            "abbreviation": "OM"
+            "independence": "1951"
         },
         {
             "country": "Pakistan",
-            "abbreviation": "PK"
+            "independence": "1947"
         },
         {
             "country": "Palau",
-            "abbreviation": "PW"
+            "independence": "1994"
         },
         {
             "country": "Palestine",
-            "abbreviation": "PS"
+            "independence": null
         },
         {
             "country": "Panama",
-            "abbreviation": "PA"
+            "independence": "1903"
         },
         {
             "country": "Papua New Guinea",
-            "abbreviation": "PG"
+            "independence": "1975"
         },
         {
             "country": "Paraguay",
-            "abbreviation": "PY"
+            "independence": "1811"
         },
         {
             "country": "Peru",
-            "abbreviation": "PE"
+            "independence": "1821"
         },
         {
             "country": "Philippines",
-            "abbreviation": "PH"
+            "independence": "1946"
         },
         {
             "country": "Pitcairn",
-            "abbreviation": "PN"
+            "independence": null
         },
         {
             "country": "Poland",
-            "abbreviation": "PL"
+            "independence": "1918"
         },
         {
             "country": "Portugal",
-            "abbreviation": "PT"
+            "independence": "1143"
         },
         {
             "country": "Puerto Rico",
-            "abbreviation": "PR"
+            "independence": null
         },
         {
             "country": "Qatar",
-            "abbreviation": "QA"
+            "independence": "1971"
         },
         {
             "country": "Reunion",
-            "abbreviation": "RE"
+            "independence": null
         },
         {
             "country": "Romania",
-            "abbreviation": "RO"
+            "independence": "1878"
         },
         {
             "country": "Russian Federation",
-            "abbreviation": "RU"
+            "independence": "1991"
         },
         {
             "country": "Rwanda",
-            "abbreviation": "RW"
+            "independence": "1962"
         },
         {
             "country": "Saint Helena",
-            "abbreviation": "SH"
+            "independence": null
         },
         {
             "country": "Saint Kitts and Nevis",
-            "abbreviation": "KN"
+            "independence": "1983"
         },
         {
             "country": "Saint Lucia",
-            "abbreviation": "LC"
+            "independence": "1979"
         },
         {
             "country": "Saint Pierre and Miquelon",
-            "abbreviation": "PM"
+            "independence": null
         },
         {
             "country": "Saint Vincent and the Grenadines",
-            "abbreviation": "VC"
+            "independence": "1979"
         },
         {
             "country": "Samoa",
-            "abbreviation": "WS"
+            "independence": "1962"
         },
         {
             "country": "San Marino",
-            "abbreviation": "SM"
+            "independence": "885"
         },
         {
             "country": "Sao Tome and Principe",
-            "abbreviation": "ST"
+            "independence": "1975"
         },
         {
             "country": "Saudi Arabia",
-            "abbreviation": "SA"
+            "independence": "1932"
+        },
+        {
+            "country": "Scotland",
+            "independence": null
         },
         {
             "country": "Senegal",
-            "abbreviation": "SN"
+            "independence": "1960"
         },
         {
             "country": "Seychelles",
-            "abbreviation": "SC"
+            "independence": "1976"
         },
         {
             "country": "Sierra Leone",
-            "abbreviation": "SL"
+            "independence": "1961"
         },
         {
             "country": "Singapore",
-            "abbreviation": "SG"
+            "independence": "1965"
         },
         {
             "country": "Slovakia",
-            "abbreviation": "SK"
+            "independence": "1993"
         },
         {
             "country": "Slovenia",
-            "abbreviation": "SI"
+            "independence": "1991"
         },
         {
             "country": "Solomon Islands",
-            "abbreviation": "SB"
+            "independence": "1978"
         },
         {
             "country": "Somalia",
-            "abbreviation": "SO"
+            "independence": "1960"
         },
         {
             "country": "South Africa",
-            "abbreviation": "ZA"
+            "independence": "1910"
         },
         {
             "country": "South Georgia and the South Sandwich Islands",
-            "abbreviation": "GS"
+            "independence": null
         },
         {
             "country": "South Korea",
-            "abbreviation": "KR"
+            "independence": "1948"
         },
         {
             "country": "South Sudan",
-            "abbreviation": "SS"
+            "independence": "2011"
         },
         {
             "country": "Spain",
-            "abbreviation": "ES"
+            "independence": "1492"
         },
         {
-            "country": "Sri Lanka",
-            "abbreviation": "LK"
+            "country": "SriLanka",
+            "independence": null
         },
         {
             "country": "Sudan",
-            "abbreviation": "SD"
+            "independence": "1956"
         },
         {
             "country": "Suriname",
-            "abbreviation": "SR"
+            "independence": "1975"
         },
         {
             "country": "Svalbard and Jan Mayen",
-            "abbreviation": "SJ"
+            "independence": null
         },
         {
             "country": "Swaziland",
-            "abbreviation": "SZ"
+            "independence": "1968"
         },
         {
             "country": "Sweden",
-            "abbreviation": "SE"
+            "independence": "836"
         },
         {
             "country": "Switzerland",
-            "abbreviation": "CH"
+            "independence": "1499"
         },
         {
             "country": "Syria",
-            "abbreviation": "SY"
+            "independence": "1941"
         },
         {
             "country": "Tajikistan",
-            "abbreviation": "TJ"
+            "independence": "1991"
         },
         {
             "country": "Tanzania",
-            "abbreviation": "TZ"
+            "independence": "1961"
         },
         {
             "country": "Thailand",
-            "abbreviation": "TH"
+            "independence": "1350"
         },
         {
             "country": "The Democratic Republic of Congo",
-            "abbreviation": "CD"
+            "independence": null
         },
         {
             "country": "Togo",
-            "abbreviation": "TG"
+            "independence": "1960"
         },
         {
             "country": "Tokelau",
-            "abbreviation": "TK"
+            "independence": null
         },
         {
             "country": "Tonga",
-            "abbreviation": "TO"
+            "independence": "1970"
         },
         {
             "country": "Trinidad and Tobago",
-            "abbreviation": "TT"
+            "independence": "1962"
         },
         {
             "country": "Tunisia",
-            "abbreviation": "TN"
+            "independence": "1956"
         },
         {
             "country": "Turkey",
-            "abbreviation": "TR"
+            "independence": "1923"
         },
         {
             "country": "Turkmenistan",
-            "abbreviation": "TM"
+            "independence": "1991"
         },
         {
             "country": "Turks and Caicos Islands",
-            "abbreviation": "TC"
+            "independence": null
         },
         {
             "country": "Tuvalu",
-            "abbreviation": "TV"
+            "independence": "1978"
         },
         {
             "country": "Uganda",
-            "abbreviation": "UG"
+            "independence": "1962"
         },
         {
             "country": "Ukraine",
-            "abbreviation": "UA"
+            "independence": "1991"
         },
         {
             "country": "United Arab Emirates",
-            "abbreviation": "AE"
+            "independence": "1971"
         },
         {
             "country": "United Kingdom",
-            "abbreviation": "GB"
+            "independence": "1066"
         },
         {
             "country": "United States",
-            "abbreviation": "US"
+            "independence": "1776"
         },
         {
             "country": "United States Minor Outlying Islands",
-            "abbreviation": "UM"
+            "independence": null
         },
         {
             "country": "Uruguay",
-            "abbreviation": "UY"
+            "independence": "1828"
         },
         {
             "country": "Uzbekistan",
-            "abbreviation": "UZ"
+            "independence": "1991"
         },
         {
             "country": "Vanuatu",
-            "abbreviation": "VU"
+            "independence": "1980"
         },
         {
             "country": "Venezuela",
-            "abbreviation": "VE"
+            "independence": "1811"
         },
         {
             "country": "Vietnam",
-            "abbreviation": "VN"
+            "independence": "1945"
         },
         {
             "country": "Virgin Islands, British",
-            "abbreviation": "VG"
+            "independence": null
         },
         {
             "country": "Virgin Islands, U.S.",
-            "abbreviation": "VI"
+            "independence": null
+        },
+        {
+            "country": "Wales",
+            "independence": null
         },
         {
             "country": "Wallis and Futuna",
-            "abbreviation": "WF"
+            "independence": null
         },
         {
             "country": "Western Sahara",
-            "abbreviation": "EH"
+            "independence": null
         },
         {
             "country": "Yemen",
-            "abbreviation": "YE"
+            "independence": "1918"
         },
         {
             "country": "Yugoslavia",
-            "abbreviation": "YU"
+            "independence": "1918"
         },
         {
             "country": "Zambia",
-            "abbreviation": "ZM"
+            "independence": "1964"
         },
         {
             "country": "Zimbabwe",
-            "abbreviation": "ZW"
+            "independence": "1980"
         }
     ]
 }

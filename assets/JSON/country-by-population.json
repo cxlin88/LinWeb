@@ -2,959 +2,975 @@
     "countries": [
         {
             "country": "Afghanistan",
-            "abbreviation": "AF"
+            "population": "35530081"
         },
         {
             "country": "Albania",
-            "abbreviation": "AL"
+            "population": "2930187"
         },
         {
             "country": "Algeria",
-            "abbreviation": "DZ"
+            "population": "41318142"
         },
         {
             "country": "American Samoa",
-            "abbreviation": "AS"
+            "population": "55641"
         },
         {
             "country": "Andorra",
-            "abbreviation": "AD"
+            "population": "76965"
         },
         {
             "country": "Angola",
-            "abbreviation": "AO"
+            "population": "29784193"
         },
         {
             "country": "Anguilla",
-            "abbreviation": "AI"
+            "population": "14909"
         },
         {
             "country": "Antarctica",
-            "abbreviation": "AQ"
+            "population": null
         },
         {
             "country": "Antigua and Barbuda",
-            "abbreviation": "AG"
+            "population": "102012"
         },
         {
             "country": "Argentina",
-            "abbreviation": "AR"
+            "population": "44271041"
         },
         {
             "country": "Armenia",
-            "abbreviation": "AM"
+            "population": "2930450"
         },
         {
             "country": "Aruba",
-            "abbreviation": "AW"
+            "population": "105264"
         },
         {
             "country": "Australia",
-            "abbreviation": "AU"
+            "population": "24450561"
         },
         {
             "country": "Austria",
-            "abbreviation": "AT"
+            "population": "8735453"
         },
         {
             "country": "Azerbaijan",
-            "abbreviation": "AZ"
+            "population": "9827589"
         },
         {
             "country": "Bahamas",
-            "abbreviation": "BS"
+            "population": "395361"
         },
         {
             "country": "Bahrain",
-            "abbreviation": "BH"
+            "population": "1492584"
         },
         {
             "country": "Bangladesh",
-            "abbreviation": "BD"
+            "population": "164669751"
         },
         {
             "country": "Barbados",
-            "abbreviation": "BB"
+            "population": "285719"
         },
         {
             "country": "Belarus",
-            "abbreviation": "BY"
+            "population": "9468338"
         },
         {
             "country": "Belgium",
-            "abbreviation": "BE"
+            "population": "11429336"
         },
         {
             "country": "Belize",
-            "abbreviation": "BZ"
+            "population": "374681"
         },
         {
             "country": "Benin",
-            "abbreviation": "BJ"
+            "population": "11175692"
         },
         {
             "country": "Bermuda",
-            "abbreviation": "BM"
+            "population": "61349"
         },
         {
             "country": "Bhutan",
-            "abbreviation": "BT"
+            "population": "807610"
         },
         {
             "country": "Bolivia",
-            "abbreviation": "BO"
+            "population": "11051600"
         },
         {
             "country": "Bosnia and Herzegovina",
-            "abbreviation": "BA"
+            "population": "3507017"
         },
         {
             "country": "Botswana",
-            "abbreviation": "BW"
+            "population": "2291661"
         },
         {
             "country": "Bouvet Island",
-            "abbreviation": "BV"
+            "population": null
         },
         {
             "country": "Brazil",
-            "abbreviation": "BR"
+            "population": "209288278"
         },
         {
             "country": "British Indian Ocean Territory",
-            "abbreviation": "IO"
+            "population": null
         },
         {
             "country": "Brunei",
-            "abbreviation": "BN"
+            "population": "428697"
         },
         {
             "country": "Bulgaria",
-            "abbreviation": "BG"
+            "population": "7084571"
         },
         {
             "country": "Burkina Faso",
-            "abbreviation": "BF"
+            "population": "19193382"
         },
         {
             "country": "Burundi",
-            "abbreviation": "BI"
+            "population": "10864245"
         },
         {
             "country": "Cambodia",
-            "abbreviation": "KH"
+            "population": "16005373"
         },
         {
             "country": "Cameroon",
-            "abbreviation": "CM"
+            "population": "24053727"
         },
         {
             "country": "Canada",
-            "abbreviation": "CA"
+            "population": "36624199"
         },
         {
             "country": "Cape Verde",
-            "abbreviation": "CV"
+            "population": "546388"
         },
         {
             "country": "Cayman Islands",
-            "abbreviation": "KY"
+            "population": "61559"
         },
         {
             "country": "Central African Republic",
-            "abbreviation": "CF"
+            "population": "4659080"
         },
         {
             "country": "Chad",
-            "abbreviation": "TD"
+            "population": "14899994"
         },
         {
             "country": "Chile",
-            "abbreviation": "CL"
+            "population": "18054726"
         },
         {
             "country": "China",
-            "abbreviation": "CN"
+            "population": "1409517397"
         },
         {
             "country": "Christmas Island",
-            "abbreviation": "CX"
+            "population": "2500"
         },
         {
             "country": "Cocos (Keeling) Islands",
-            "abbreviation": "CC"
+            "population": "600"
         },
         {
             "country": "Colombia",
-            "abbreviation": "CO"
+            "population": "49065615"
         },
         {
             "country": "Comoros",
-            "abbreviation": "KM"
+            "population": "813912"
         },
         {
             "country": "Congo",
-            "abbreviation": "CG"
+            "population": "5260750"
         },
         {
             "country": "Cook Islands",
-            "abbreviation": "CK"
+            "population": "17380"
         },
         {
             "country": "Costa Rica",
-            "abbreviation": "CR"
+            "population": "4905769"
         },
         {
             "country": "Croatia",
-            "abbreviation": "HR"
+            "population": "4189353"
         },
         {
             "country": "Cuba",
-            "abbreviation": "CU"
+            "population": "11484636"
         },
         {
             "country": "Cyprus",
-            "abbreviation": "CY"
+            "population": "1179551"
         },
         {
             "country": "Czech Republic",
-            "abbreviation": "CZ"
+            "population": "10618303"
         },
         {
             "country": "Denmark",
-            "abbreviation": "DK"
+            "population": "5733551"
         },
         {
             "country": "Djibouti",
-            "abbreviation": "DJ"
+            "population": "956985"
         },
         {
             "country": "Dominica",
-            "abbreviation": "DM"
+            "population": "73925"
         },
         {
             "country": "Dominican Republic",
-            "abbreviation": "DO"
+            "population": "10766998"
         },
         {
             "country": "East Timor",
-            "abbreviation": "TP"
+            "population": "1296311"
         },
         {
             "country": "Ecuador",
-            "abbreviation": "EC"
+            "population": "16624858"
         },
         {
             "country": "Egypt",
-            "abbreviation": "EG"
+            "population": "97553151"
         },
         {
             "country": "El Salvador",
-            "abbreviation": "SV"
+            "population": "6377853"
+        },
+        {
+            "country": "England",
+            "population": null
         },
         {
             "country": "Equatorial Guinea",
-            "abbreviation": "GQ"
+            "population": "1267689"
         },
         {
             "country": "Eritrea",
-            "abbreviation": "ER"
+            "population": "5068831"
         },
         {
             "country": "Estonia",
-            "abbreviation": "EE"
+            "population": "1309632"
         },
         {
             "country": "Ethiopia",
-            "abbreviation": "ET"
+            "population": "104957438"
         },
         {
             "country": "Falkland Islands",
-            "abbreviation": "FK"
+            "population": "2910"
         },
         {
             "country": "Faroe Islands",
-            "abbreviation": "FO"
+            "population": "49290"
         },
         {
             "country": "Fiji Islands",
-            "abbreviation": "FJ"
+            "population": "905502"
         },
         {
             "country": "Finland",
-            "abbreviation": "FI"
+            "population": "5523231"
         },
         {
             "country": "France",
-            "abbreviation": "FR"
+            "population": "64979548"
         },
         {
             "country": "French Guiana",
-            "abbreviation": "GF"
+            "population": "282731"
         },
         {
             "country": "French Polynesia",
-            "abbreviation": "PF"
+            "population": "283007"
         },
         {
             "country": "French Southern territories",
-            "abbreviation": "TF"
+            "population": null
         },
         {
             "country": "Gabon",
-            "abbreviation": "GA"
+            "population": "2025137"
         },
         {
             "country": "Gambia",
-            "abbreviation": "GM"
+            "population": "2100568"
         },
         {
             "country": "Georgia",
-            "abbreviation": "GE"
+            "population": "3912061"
         },
         {
             "country": "Germany",
-            "abbreviation": "DE"
+            "population": "82114224"
         },
         {
             "country": "Ghana",
-            "abbreviation": "GH"
+            "population": "28833629"
         },
         {
             "country": "Gibraltar",
-            "abbreviation": "GI"
+            "population": "34571"
         },
         {
             "country": "Greece",
-            "abbreviation": "GR"
+            "population": "11159773"
         },
         {
             "country": "Greenland",
-            "abbreviation": "GL"
+            "population": "56480"
         },
         {
             "country": "Grenada",
-            "abbreviation": "GD"
+            "population": "107825"
         },
         {
             "country": "Guadeloupe",
-            "abbreviation": "GP"
+            "population": "449568"
         },
         {
             "country": "Guam",
-            "abbreviation": "GU"
+            "population": "164229"
         },
         {
             "country": "Guatemala",
-            "abbreviation": "GT"
+            "population": "16913503"
         },
         {
             "country": "Guinea",
-            "abbreviation": "GN"
+            "population": "12717176"
         },
         {
             "country": "Guinea-Bissau",
-            "abbreviation": "GW"
+            "population": "1861283"
         },
         {
             "country": "Guyana",
-            "abbreviation": "GY"
+            "population": "777859"
         },
         {
             "country": "Haiti",
-            "abbreviation": "HT"
+            "population": "10981229"
         },
         {
             "country": "Heard Island and McDonald Islands",
-            "abbreviation": "HM"
+            "population": null
         },
         {
             "country": "Holy See (Vatican City State)",
-            "abbreviation": "VA"
+            "population": "1000"
         },
         {
             "country": "Honduras",
-            "abbreviation": "HN"
+            "population": "9265067"
         },
         {
             "country": "Hong Kong",
-            "abbreviation": "HK"
+            "population": "7364883"
         },
         {
             "country": "Hungary",
-            "abbreviation": "HU"
+            "population": "9721559"
         },
         {
             "country": "Iceland",
-            "abbreviation": "IS"
+            "population": "335025"
         },
         {
             "country": "India",
-            "abbreviation": "IN"
+            "population": "1339180127"
         },
         {
             "country": "Indonesia",
-            "abbreviation": "ID"
+            "population": "263991379"
         },
         {
             "country": "Iran",
-            "abbreviation": "IR"
+            "population": "81162788"
         },
         {
             "country": "Iraq",
-            "abbreviation": "IQ"
+            "population": "38274618"
         },
         {
             "country": "Ireland",
-            "abbreviation": "IE"
+            "population": "4761657"
         },
         {
             "country": "Israel",
-            "abbreviation": "IL"
+            "population": "8321570"
         },
         {
             "country": "Italy",
-            "abbreviation": "IT"
+            "population": "59359900"
         },
         {
             "country": "Ivory Coast",
-            "abbreviation": "CI"
+            "population": "24294750"
         },
         {
             "country": "Jamaica",
-            "abbreviation": "JM"
+            "population": "2890299"
         },
         {
             "country": "Japan",
-            "abbreviation": "JP"
+            "population": "127484450"
         },
         {
             "country": "Jordan",
-            "abbreviation": "JO"
+            "population": "9702353"
         },
         {
             "country": "Kazakstan",
-            "abbreviation": "KZ"
+            "population": "18204499"
         },
         {
             "country": "Kenya",
-            "abbreviation": "KE"
+            "population": "49699862"
         },
         {
             "country": "Kiribati",
-            "abbreviation": "KI"
+            "population": "116398"
         },
         {
             "country": "Kuwait",
-            "abbreviation": "KW"
+            "population": "4136528"
         },
         {
             "country": "Kyrgyzstan",
-            "abbreviation": "KG"
+            "population": "6045117"
         },
         {
             "country": "Laos",
-            "abbreviation": "LA"
+            "population": "6858160"
         },
         {
             "country": "Latvia",
-            "abbreviation": "LV"
+            "population": "1949670"
         },
         {
             "country": "Lebanon",
-            "abbreviation": "LB"
+            "population": "6082357"
         },
         {
             "country": "Lesotho",
-            "abbreviation": "LS"
+            "population": "2233339"
         },
         {
             "country": "Liberia",
-            "abbreviation": "LR"
+            "population": "4731906"
         },
         {
             "country": "Libyan Arab Jamahiriya",
-            "abbreviation": "LY"
+            "population": "5605000"
         },
         {
             "country": "Liechtenstein",
-            "abbreviation": "LI"
+            "population": "37922"
         },
         {
             "country": "Lithuania",
-            "abbreviation": "LT"
+            "population": "2890297"
         },
         {
             "country": "Luxembourg",
-            "abbreviation": "LU"
+            "population": "583455"
         },
         {
             "country": "Macao",
-            "abbreviation": "MO"
+            "population": "473000"
         },
         {
             "country": "North Macedonia",
-            "abbreviation": "MK"
+            "population": "2024000"
         },
         {
             "country": "Madagascar",
-            "abbreviation": "MG"
+            "population": "25570895"
         },
         {
             "country": "Malawi",
-            "abbreviation": "MW"
+            "population": "18622104"
         },
         {
             "country": "Malaysia",
-            "abbreviation": "MY"
+            "population": "31624264"
         },
         {
             "country": "Maldives",
-            "abbreviation": "MV"
+            "population": "436330"
         },
         {
             "country": "Mali",
-            "abbreviation": "ML"
+            "population": "18541980"
         },
         {
             "country": "Malta",
-            "abbreviation": "MT"
+            "population": "430835"
         },
         {
             "country": "Marshall Islands",
-            "abbreviation": "MH"
+            "population": "53127"
         },
         {
             "country": "Martinique",
-            "abbreviation": "MQ"
+            "population": "384896"
         },
         {
             "country": "Mauritania",
-            "abbreviation": "MR"
+            "population": "4420184"
         },
         {
             "country": "Mauritius",
-            "abbreviation": "MU"
+            "population": "1265138"
         },
         {
             "country": "Mayotte",
-            "abbreviation": "YT"
+            "population": "253045"
         },
         {
             "country": "Mexico",
-            "abbreviation": "MX"
+            "population": "129163276"
         },
         {
             "country": "Micronesia, Federated States of",
-            "abbreviation": "FM"
+            "population": null
         },
         {
             "country": "Moldova",
-            "abbreviation": "MD"
+            "population": "4051212"
         },
         {
             "country": "Monaco",
-            "abbreviation": "MC"
+            "population": "38695"
         },
         {
             "country": "Mongolia",
-            "abbreviation": "MN"
+            "population": "3075647"
         },
         {
             "country": "Montserrat",
-            "abbreviation": "MS"
+            "population": "5177"
         },
         {
             "country": "Morocco",
-            "abbreviation": "MA"
+            "population": "35739580"
         },
         {
             "country": "Mozambique",
-            "abbreviation": "MZ"
+            "population": "29668834"
         },
         {
             "country": "Myanmar",
-            "abbreviation": "MM"
+            "population": "53370609"
         },
         {
             "country": "Namibia",
-            "abbreviation": "NA"
+            "population": "2533794"
         },
         {
             "country": "Nauru",
-            "abbreviation": "NR"
+            "population": "11359"
         },
         {
             "country": "Nepal",
-            "abbreviation": "NP"
+            "population": "29304998"
         },
         {
             "country": "Netherlands",
-            "abbreviation": "NL"
+            "population": "17035938"
         },
         {
             "country": "Netherlands Antilles",
-            "abbreviation": "AN"
+            "population": "217000"
         },
         {
             "country": "New Caledonia",
-            "abbreviation": "NC"
+            "population": "276255"
         },
         {
             "country": "New Zealand",
-            "abbreviation": "NZ"
+            "population": "4705818"
         },
         {
             "country": "Nicaragua",
-            "abbreviation": "NI"
+            "population": "6217581"
         },
         {
             "country": "Niger",
-            "abbreviation": "NE"
+            "population": "21477348"
         },
         {
             "country": "Nigeria",
-            "abbreviation": "NG"
+            "population": "190886311"
         },
         {
             "country": "Niue",
-            "abbreviation": "NU"
+            "population": "1618"
         },
         {
             "country": "Norfolk Island",
-            "abbreviation": "NF"
+            "population": "2000"
         },
         {
             "country": "North Korea",
-            "abbreviation": "KP"
+            "population": "25490965"
+        },
+        {
+            "country": "Northern Ireland",
+            "population": null
         },
         {
             "country": "Northern Mariana Islands",
-            "abbreviation": "MP"
+            "population": "55144"
         },
         {
             "country": "Norway",
-            "abbreviation": "NO"
+            "population": "5305383"
         },
         {
             "country": "Oman",
-            "abbreviation": "OM"
+            "population": "4636262"
         },
         {
             "country": "Pakistan",
-            "abbreviation": "PK"
+            "population": "197015955"
         },
         {
             "country": "Palau",
-            "abbreviation": "PW"
+            "population": "21729"
         },
         {
             "country": "Palestine",
-            "abbreviation": "PS"
+            "population": "4920724"
         },
         {
             "country": "Panama",
-            "abbreviation": "PA"
+            "population": "4098587"
         },
         {
             "country": "Papua New Guinea",
-            "abbreviation": "PG"
+            "population": "8251162"
         },
         {
             "country": "Paraguay",
-            "abbreviation": "PY"
+            "population": "6811297"
         },
         {
             "country": "Peru",
-            "abbreviation": "PE"
+            "population": "32165485"
         },
         {
             "country": "Philippines",
-            "abbreviation": "PH"
+            "population": "104918090"
         },
         {
             "country": "Pitcairn",
-            "abbreviation": "PN"
+            "population": "50"
         },
         {
             "country": "Poland",
-            "abbreviation": "PL"
+            "population": "38170712"
         },
         {
             "country": "Portugal",
-            "abbreviation": "PT"
+            "population": "10329506"
         },
         {
             "country": "Puerto Rico",
-            "abbreviation": "PR"
+            "population": "3663131"
         },
         {
             "country": "Qatar",
-            "abbreviation": "QA"
+            "population": "2639211"
         },
         {
             "country": "Reunion",
-            "abbreviation": "RE"
+            "population": "699000"
         },
         {
             "country": "Romania",
-            "abbreviation": "RO"
+            "population": "19679306"
         },
         {
             "country": "Russian Federation",
-            "abbreviation": "RU"
+            "population": "143989754"
         },
         {
             "country": "Rwanda",
-            "abbreviation": "RW"
+            "population": "12208407"
         },
         {
             "country": "Saint Helena",
-            "abbreviation": "SH"
+            "population": "4049"
         },
         {
             "country": "Saint Kitts and Nevis",
-            "abbreviation": "KN"
+            "population": "55345"
         },
         {
             "country": "Saint Lucia",
-            "abbreviation": "LC"
+            "population": "178844"
         },
         {
             "country": "Saint Pierre and Miquelon",
-            "abbreviation": "PM"
+            "population": "6320"
         },
         {
             "country": "Saint Vincent and the Grenadines",
-            "abbreviation": "VC"
+            "population": "109897"
         },
         {
             "country": "Samoa",
-            "abbreviation": "WS"
+            "population": "196440"
         },
         {
             "country": "San Marino",
-            "abbreviation": "SM"
+            "population": "33400"
         },
         {
             "country": "Sao Tome and Principe",
-            "abbreviation": "ST"
+            "population": "204327"
         },
         {
             "country": "Saudi Arabia",
-            "abbreviation": "SA"
+            "population": "32938213"
+        },
+        {
+            "country": "Scotland",
+            "population": null
         },
         {
             "country": "Senegal",
-            "abbreviation": "SN"
+            "population": "15850567"
         },
         {
             "country": "Seychelles",
-            "abbreviation": "SC"
+            "population": "94737"
         },
         {
             "country": "Sierra Leone",
-            "abbreviation": "SL"
+            "population": "7557212"
         },
         {
             "country": "Singapore",
-            "abbreviation": "SG"
+            "population": "5708844"
         },
         {
             "country": "Slovakia",
-            "abbreviation": "SK"
+            "population": "5447662"
         },
         {
             "country": "Slovenia",
-            "abbreviation": "SI"
+            "population": "2079976"
         },
         {
             "country": "Solomon Islands",
-            "abbreviation": "SB"
+            "population": "611343"
         },
         {
             "country": "Somalia",
-            "abbreviation": "SO"
+            "population": "14742523"
         },
         {
             "country": "South Africa",
-            "abbreviation": "ZA"
+            "population": "56717156"
         },
         {
             "country": "South Georgia and the South Sandwich Islands",
-            "abbreviation": "GS"
+            "population": null
         },
         {
             "country": "South Korea",
-            "abbreviation": "KR"
+            "population": "50982212"
         },
         {
             "country": "South Sudan",
-            "abbreviation": "SS"
+            "population": "12575714"
         },
         {
             "country": "Spain",
-            "abbreviation": "ES"
+            "population": "46354321"
         },
         {
             "country": "Sri Lanka",
-            "abbreviation": "LK"
+            "population": "20876917"
         },
         {
             "country": "Sudan",
-            "abbreviation": "SD"
+            "population": "40533330"
         },
         {
             "country": "Suriname",
-            "abbreviation": "SR"
+            "population": "563402"
         },
         {
             "country": "Svalbard and Jan Mayen",
-            "abbreviation": "SJ"
+            "population": "3200"
         },
         {
             "country": "Swaziland",
-            "abbreviation": "SZ"
+            "population": "1008000"
         },
         {
             "country": "Sweden",
-            "abbreviation": "SE"
+            "population": "9910701"
         },
         {
             "country": "Switzerland",
-            "abbreviation": "CH"
+            "population": "8476005"
         },
         {
             "country": "Syria",
-            "abbreviation": "SY"
+            "population": "18269868"
         },
         {
             "country": "Tajikistan",
-            "abbreviation": "TJ"
+            "population": "8921343"
         },
         {
             "country": "Tanzania",
-            "abbreviation": "TZ"
+            "population": "57310019"
         },
         {
             "country": "Thailand",
-            "abbreviation": "TH"
+            "population": "69037513"
         },
         {
             "country": "The Democratic Republic of Congo",
-            "abbreviation": "CD"
+            "population": null
         },
         {
             "country": "Togo",
-            "abbreviation": "TG"
+            "population": "7797694"
         },
         {
             "country": "Tokelau",
-            "abbreviation": "TK"
+            "population": "1300"
         },
         {
             "country": "Tonga",
-            "abbreviation": "TO"
+            "population": "108020"
         },
         {
             "country": "Trinidad and Tobago",
-            "abbreviation": "TT"
+            "population": "1369125"
         },
         {
             "country": "Tunisia",
-            "abbreviation": "TN"
+            "population": "11532127"
         },
         {
             "country": "Turkey",
-            "abbreviation": "TR"
+            "population": "80745020"
         },
         {
             "country": "Turkmenistan",
-            "abbreviation": "TM"
+            "population": "5758075"
         },
         {
             "country": "Turks and Caicos Islands",
-            "abbreviation": "TC"
+            "population": "35446"
         },
         {
             "country": "Tuvalu",
-            "abbreviation": "TV"
+            "population": "11192"
         },
         {
             "country": "Uganda",
-            "abbreviation": "UG"
+            "population": "42862958"
         },
         {
             "country": "Ukraine",
-            "abbreviation": "UA"
+            "population": "44222947"
         },
         {
             "country": "United Arab Emirates",
-            "abbreviation": "AE"
+            "population": "9400145"
         },
         {
             "country": "United Kingdom",
-            "abbreviation": "GB"
+            "population": "66181585"
         },
         {
             "country": "United States",
-            "abbreviation": "US"
+            "population": "324459463"
         },
         {
             "country": "United States Minor Outlying Islands",
-            "abbreviation": "UM"
+            "population": null
         },
         {
             "country": "Uruguay",
-            "abbreviation": "UY"
+            "population": "3456750"
         },
         {
             "country": "Uzbekistan",
-            "abbreviation": "UZ"
+            "population": "31910641"
         },
         {
             "country": "Vanuatu",
-            "abbreviation": "VU"
+            "population": "276244"
         },
         {
             "country": "Venezuela",
-            "abbreviation": "VE"
+            "population": "31977065"
         },
         {
             "country": "Vietnam",
-            "abbreviation": "VN"
+            "population": "95540800"
         },
         {
             "country": "Virgin Islands, British",
-            "abbreviation": "VG"
+            "population": null
         },
         {
             "country": "Virgin Islands, U.S.",
-            "abbreviation": "VI"
+            "population": null
+        },
+        {
+            "country": "Wales",
+            "population": null
         },
         {
             "country": "Wallis and Futuna",
-            "abbreviation": "WF"
+            "population": "11773"
         },
         {
             "country": "Western Sahara",
-            "abbreviation": "EH"
+            "population": "552628"
         },
         {
             "country": "Yemen",
-            "abbreviation": "YE"
+            "population": "28250420"
         },
         {
             "country": "Yugoslavia",
-            "abbreviation": "YU"
+            "population": "10640000"
         },
         {
             "country": "Zambia",
-            "abbreviation": "ZM"
+            "population": "17094130"
         },
         {
             "country": "Zimbabwe",
-            "abbreviation": "ZW"
+            "population": "16529904"
         }
     ]
 }

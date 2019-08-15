@@ -2,959 +2,975 @@
     "countries": [
         {
             "country": "Afghanistan",
-            "abbreviation": "AF"
+            "city": "Kabul"
         },
         {
             "country": "Albania",
-            "abbreviation": "AL"
+            "city": "Tirana"
         },
         {
             "country": "Algeria",
-            "abbreviation": "DZ"
+            "city": "Alger"
         },
         {
             "country": "American Samoa",
-            "abbreviation": "AS"
+            "city": "Fagatogo"
         },
         {
             "country": "Andorra",
-            "abbreviation": "AD"
+            "city": "Andorra la Vella"
         },
         {
             "country": "Angola",
-            "abbreviation": "AO"
+            "city": "Luanda"
         },
         {
             "country": "Anguilla",
-            "abbreviation": "AI"
+            "city": "The Valley"
         },
         {
             "country": "Antarctica",
-            "abbreviation": "AQ"
+            "city": null
         },
         {
             "country": "Antigua and Barbuda",
-            "abbreviation": "AG"
+            "city": "Saint John's"
         },
         {
             "country": "Argentina",
-            "abbreviation": "AR"
+            "city": "Buenos Aires"
         },
         {
             "country": "Armenia",
-            "abbreviation": "AM"
+            "city": "Yerevan"
         },
         {
             "country": "Aruba",
-            "abbreviation": "AW"
+            "city": "Oranjestad"
         },
         {
             "country": "Australia",
-            "abbreviation": "AU"
+            "city": "Canberra"
         },
         {
             "country": "Austria",
-            "abbreviation": "AT"
+            "city": "Wien"
         },
         {
             "country": "Azerbaijan",
-            "abbreviation": "AZ"
+            "city": "Baku"
         },
         {
             "country": "Bahamas",
-            "abbreviation": "BS"
+            "city": "Nassau"
         },
         {
             "country": "Bahrain",
-            "abbreviation": "BH"
+            "city": "al-Manama"
         },
         {
             "country": "Bangladesh",
-            "abbreviation": "BD"
+            "city": "Dhaka"
         },
         {
             "country": "Barbados",
-            "abbreviation": "BB"
+            "city": "Bridgetown"
         },
         {
             "country": "Belarus",
-            "abbreviation": "BY"
+            "city": "Minsk"
         },
         {
             "country": "Belgium",
-            "abbreviation": "BE"
+            "city": "Bruxelles [Brussel]"
         },
         {
             "country": "Belize",
-            "abbreviation": "BZ"
+            "city": "Belmopan"
         },
         {
             "country": "Benin",
-            "abbreviation": "BJ"
+            "city": "Porto-Novo"
         },
         {
             "country": "Bermuda",
-            "abbreviation": "BM"
+            "city": "Hamilton"
         },
         {
             "country": "Bhutan",
-            "abbreviation": "BT"
+            "city": "Thimphu"
         },
         {
             "country": "Bolivia",
-            "abbreviation": "BO"
+            "city": "La Paz"
         },
         {
             "country": "Bosnia and Herzegovina",
-            "abbreviation": "BA"
+            "city": "Sarajevo"
         },
         {
             "country": "Botswana",
-            "abbreviation": "BW"
+            "city": "Gaborone"
         },
         {
             "country": "Bouvet Island",
-            "abbreviation": "BV"
+            "city": null
         },
         {
             "country": "Brazil",
-            "abbreviation": "BR"
+            "city": "Brasília"
         },
         {
             "country": "British Indian Ocean Territory",
-            "abbreviation": "IO"
+            "city": null
         },
         {
             "country": "Brunei",
-            "abbreviation": "BN"
+            "city": "Bandar Seri Begawan"
         },
         {
             "country": "Bulgaria",
-            "abbreviation": "BG"
+            "city": "Sofia"
         },
         {
             "country": "Burkina Faso",
-            "abbreviation": "BF"
+            "city": "Ouagadougou"
         },
         {
             "country": "Burundi",
-            "abbreviation": "BI"
+            "city": "Bujumbura"
         },
         {
             "country": "Cambodia",
-            "abbreviation": "KH"
+            "city": "Phnom Penh"
         },
         {
             "country": "Cameroon",
-            "abbreviation": "CM"
+            "city": "Yaound"
         },
         {
             "country": "Canada",
-            "abbreviation": "CA"
+            "city": "Ottawa"
         },
         {
             "country": "Cape Verde",
-            "abbreviation": "CV"
+            "city": "Praia"
         },
         {
             "country": "Cayman Islands",
-            "abbreviation": "KY"
+            "city": "George Town"
         },
         {
             "country": "Central African Republic",
-            "abbreviation": "CF"
+            "city": "Bangui"
         },
         {
             "country": "Chad",
-            "abbreviation": "TD"
+            "city": "N'Djam"
         },
         {
             "country": "Chile",
-            "abbreviation": "CL"
+            "city": "Santiago de Chile"
         },
         {
             "country": "China",
-            "abbreviation": "CN"
+            "city": "Peking"
         },
         {
             "country": "Christmas Island",
-            "abbreviation": "CX"
+            "city": "Flying Fish Cove"
         },
         {
             "country": "Cocos (Keeling) Islands",
-            "abbreviation": "CC"
+            "city": "West Island"
         },
         {
             "country": "Colombia",
-            "abbreviation": "CO"
+            "city": "Santaf"
         },
         {
             "country": "Comoros",
-            "abbreviation": "KM"
+            "city": "Moroni"
         },
         {
             "country": "Congo",
-            "abbreviation": "CG"
+            "city": "Brazzaville"
         },
         {
             "country": "Cook Islands",
-            "abbreviation": "CK"
+            "city": "Avarua"
         },
         {
             "country": "Costa Rica",
-            "abbreviation": "CR"
+            "city": "San Jos"
         },
         {
             "country": "Croatia",
-            "abbreviation": "HR"
+            "city": "Zagreb"
         },
         {
             "country": "Cuba",
-            "abbreviation": "CU"
+            "city": "La Habana"
         },
         {
             "country": "Cyprus",
-            "abbreviation": "CY"
+            "city": "Nicosia"
         },
         {
             "country": "Czech Republic",
-            "abbreviation": "CZ"
+            "city": "Praha"
         },
         {
             "country": "Denmark",
-            "abbreviation": "DK"
+            "city": "Copenhagen"
         },
         {
             "country": "Djibouti",
-            "abbreviation": "DJ"
+            "city": "Djibouti"
         },
         {
             "country": "Dominica",
-            "abbreviation": "DM"
+            "city": "Roseau"
         },
         {
             "country": "Dominican Republic",
-            "abbreviation": "DO"
+            "city": "Santo Domingo de Guzm"
         },
         {
             "country": "East Timor",
-            "abbreviation": "TP"
+            "city": "Dili"
         },
         {
             "country": "Ecuador",
-            "abbreviation": "EC"
+            "city": "Quito"
         },
         {
             "country": "Egypt",
-            "abbreviation": "EG"
+            "city": "Cairo"
         },
         {
             "country": "El Salvador",
-            "abbreviation": "SV"
+            "city": "San Salvador"
+        },
+        {
+            "country": "England",
+            "city": "London"
         },
         {
             "country": "Equatorial Guinea",
-            "abbreviation": "GQ"
+            "city": "Malabo"
         },
         {
             "country": "Eritrea",
-            "abbreviation": "ER"
+            "city": "Asmara"
         },
         {
             "country": "Estonia",
-            "abbreviation": "EE"
+            "city": "Tallinn"
         },
         {
             "country": "Ethiopia",
-            "abbreviation": "ET"
+            "city": "Addis Abeba"
         },
         {
             "country": "Falkland Islands",
-            "abbreviation": "FK"
+            "city": "Stanley"
         },
         {
             "country": "Faroe Islands",
-            "abbreviation": "FO"
+            "city": "Tórshavn"
         },
         {
             "country": "Fiji Islands",
-            "abbreviation": "FJ"
+            "city": "Suva"
         },
         {
             "country": "Finland",
-            "abbreviation": "FI"
+            "city": "Helsinki [Helsingfors]"
         },
         {
             "country": "France",
-            "abbreviation": "FR"
+            "city": "Paris"
         },
         {
             "country": "French Guiana",
-            "abbreviation": "GF"
+            "city": "Cayenne"
         },
         {
             "country": "French Polynesia",
-            "abbreviation": "PF"
+            "city": "Papeete"
         },
         {
             "country": "French Southern territories",
-            "abbreviation": "TF"
+            "city": null
         },
         {
             "country": "Gabon",
-            "abbreviation": "GA"
+            "city": "Libreville"
         },
         {
             "country": "Gambia",
-            "abbreviation": "GM"
+            "city": "Banjul"
         },
         {
             "country": "Georgia",
-            "abbreviation": "GE"
+            "city": "Tbilisi"
         },
         {
             "country": "Germany",
-            "abbreviation": "DE"
+            "city": "Berlin"
         },
         {
             "country": "Ghana",
-            "abbreviation": "GH"
+            "city": "Accra"
         },
         {
             "country": "Gibraltar",
-            "abbreviation": "GI"
+            "city": "Gibraltar"
         },
         {
             "country": "Greece",
-            "abbreviation": "GR"
+            "city": "Athenai"
         },
         {
             "country": "Greenland",
-            "abbreviation": "GL"
+            "city": "Nuuk"
         },
         {
             "country": "Grenada",
-            "abbreviation": "GD"
+            "city": "Saint George's"
         },
         {
             "country": "Guadeloupe",
-            "abbreviation": "GP"
+            "city": "Basse-Terre"
         },
         {
             "country": "Guam",
-            "abbreviation": "GU"
+            "city": "Aga"
         },
         {
             "country": "Guatemala",
-            "abbreviation": "GT"
+            "city": "Ciudad de Guatemala"
         },
         {
             "country": "Guinea",
-            "abbreviation": "GN"
+            "city": "Conakry"
         },
         {
             "country": "Guinea-Bissau",
-            "abbreviation": "GW"
+            "city": "Bissau"
         },
         {
             "country": "Guyana",
-            "abbreviation": "GY"
+            "city": "Georgetown"
         },
         {
             "country": "Haiti",
-            "abbreviation": "HT"
+            "city": "Port-au-Prince"
         },
         {
             "country": "Heard Island and McDonald Islands",
-            "abbreviation": "HM"
+            "city": null
         },
         {
             "country": "Holy See (Vatican City State)",
-            "abbreviation": "VA"
+            "city": "Citt"
         },
         {
             "country": "Honduras",
-            "abbreviation": "HN"
+            "city": "Tegucigalpa"
         },
         {
             "country": "Hong Kong",
-            "abbreviation": "HK"
+            "city": "Victoria"
         },
         {
             "country": "Hungary",
-            "abbreviation": "HU"
+            "city": "Budapest"
         },
         {
             "country": "Iceland",
-            "abbreviation": "IS"
+            "city": "Reykjav"
         },
         {
             "country": "India",
-            "abbreviation": "IN"
+            "city": "New Delhi"
         },
         {
             "country": "Indonesia",
-            "abbreviation": "ID"
+            "city": "Jakarta"
         },
         {
             "country": "Iran",
-            "abbreviation": "IR"
+            "city": "Tehran"
         },
         {
             "country": "Iraq",
-            "abbreviation": "IQ"
+            "city": "Baghdad"
         },
         {
             "country": "Ireland",
-            "abbreviation": "IE"
+            "city": "Dublin"
         },
         {
             "country": "Israel",
-            "abbreviation": "IL"
+            "city": "Jerusalem"
         },
         {
             "country": "Italy",
-            "abbreviation": "IT"
+            "city": "Roma"
         },
         {
             "country": "Ivory Coast",
-            "abbreviation": "CI"
+            "city": "Yamoussoukro"
         },
         {
             "country": "Jamaica",
-            "abbreviation": "JM"
+            "city": "Kingston"
         },
         {
             "country": "Japan",
-            "abbreviation": "JP"
+            "city": "Tokyo"
         },
         {
             "country": "Jordan",
-            "abbreviation": "JO"
+            "city": "Amman"
         },
         {
             "country": "Kazakstan",
-            "abbreviation": "KZ"
+            "city": "Astana"
         },
         {
             "country": "Kenya",
-            "abbreviation": "KE"
+            "city": "Nairobi"
         },
         {
             "country": "Kiribati",
-            "abbreviation": "KI"
+            "city": "Bairiki"
         },
         {
             "country": "Kuwait",
-            "abbreviation": "KW"
+            "city": "Kuwait"
         },
         {
             "country": "Kyrgyzstan",
-            "abbreviation": "KG"
+            "city": "Bishkek"
         },
         {
             "country": "Laos",
-            "abbreviation": "LA"
+            "city": "Vientiane"
         },
         {
             "country": "Latvia",
-            "abbreviation": "LV"
+            "city": "Riga"
         },
         {
             "country": "Lebanon",
-            "abbreviation": "LB"
+            "city": "Beirut"
         },
         {
             "country": "Lesotho",
-            "abbreviation": "LS"
+            "city": "Maseru"
         },
         {
             "country": "Liberia",
-            "abbreviation": "LR"
+            "city": "Monrovia"
         },
         {
             "country": "Libyan Arab Jamahiriya",
-            "abbreviation": "LY"
+            "city": "Tripoli"
         },
         {
             "country": "Liechtenstein",
-            "abbreviation": "LI"
+            "city": "Vaduz"
         },
         {
             "country": "Lithuania",
-            "abbreviation": "LT"
+            "city": "Vilnius"
         },
         {
             "country": "Luxembourg",
-            "abbreviation": "LU"
+            "city": "Luxembourg [Luxemburg/L"
         },
         {
             "country": "Macao",
-            "abbreviation": "MO"
+            "city": "Macao"
         },
         {
             "country": "North Macedonia",
-            "abbreviation": "MK"
+            "city": "Skopje"
         },
         {
             "country": "Madagascar",
-            "abbreviation": "MG"
+            "city": "Antananarivo"
         },
         {
             "country": "Malawi",
-            "abbreviation": "MW"
+            "city": "Lilongwe"
         },
         {
             "country": "Malaysia",
-            "abbreviation": "MY"
+            "city": "Kuala Lumpur"
         },
         {
             "country": "Maldives",
-            "abbreviation": "MV"
+            "city": "Male"
         },
         {
             "country": "Mali",
-            "abbreviation": "ML"
+            "city": "Bamako"
         },
         {
             "country": "Malta",
-            "abbreviation": "MT"
+            "city": "Valletta"
         },
         {
             "country": "Marshall Islands",
-            "abbreviation": "MH"
+            "city": "Dalap-Uliga-Darrit"
         },
         {
             "country": "Martinique",
-            "abbreviation": "MQ"
+            "city": "Fort-de-France"
         },
         {
             "country": "Mauritania",
-            "abbreviation": "MR"
+            "city": "Nouakchott"
         },
         {
             "country": "Mauritius",
-            "abbreviation": "MU"
+            "city": "Port-Louis"
         },
         {
             "country": "Mayotte",
-            "abbreviation": "YT"
+            "city": "Mamoutzou"
         },
         {
             "country": "Mexico",
-            "abbreviation": "MX"
+            "city": "Ciudad de M"
         },
         {
             "country": "Micronesia, Federated States of",
-            "abbreviation": "FM"
+            "city": "Palikir"
         },
         {
             "country": "Moldova",
-            "abbreviation": "MD"
+            "city": "Chisinau"
         },
         {
             "country": "Monaco",
-            "abbreviation": "MC"
+            "city": "Monaco-Ville"
         },
         {
             "country": "Mongolia",
-            "abbreviation": "MN"
+            "city": "Ulan Bator"
         },
         {
             "country": "Montserrat",
-            "abbreviation": "MS"
+            "city": "Plymouth"
         },
         {
             "country": "Morocco",
-            "abbreviation": "MA"
+            "city": "Rabat"
         },
         {
             "country": "Mozambique",
-            "abbreviation": "MZ"
+            "city": "Maputo"
         },
         {
             "country": "Myanmar",
-            "abbreviation": "MM"
+            "city": "Rangoon (Yangon)"
         },
         {
             "country": "Namibia",
-            "abbreviation": "NA"
+            "city": "Windhoek"
         },
         {
             "country": "Nauru",
-            "abbreviation": "NR"
+            "city": "Yaren"
         },
         {
             "country": "Nepal",
-            "abbreviation": "NP"
+            "city": "Kathmandu"
         },
         {
             "country": "Netherlands",
-            "abbreviation": "NL"
+            "city": "Amsterdam"
         },
         {
             "country": "Netherlands Antilles",
-            "abbreviation": "AN"
+            "city": "Willemstad"
         },
         {
             "country": "New Caledonia",
-            "abbreviation": "NC"
+            "city": "Noum"
         },
         {
             "country": "New Zealand",
-            "abbreviation": "NZ"
+            "city": "Wellington"
         },
         {
             "country": "Nicaragua",
-            "abbreviation": "NI"
+            "city": "Managua"
         },
         {
             "country": "Niger",
-            "abbreviation": "NE"
+            "city": "Niamey"
         },
         {
             "country": "Nigeria",
-            "abbreviation": "NG"
+            "city": "Abuja"
         },
         {
             "country": "Niue",
-            "abbreviation": "NU"
+            "city": "Alofi"
         },
         {
             "country": "Norfolk Island",
-            "abbreviation": "NF"
+            "city": "Kingston"
         },
         {
             "country": "North Korea",
-            "abbreviation": "KP"
+            "city": "Pyongyang"
+        },
+        {
+            "country": "Northern Ireland",
+            "city": "Belfast"
         },
         {
             "country": "Northern Mariana Islands",
-            "abbreviation": "MP"
+            "city": "Garapan"
         },
         {
             "country": "Norway",
-            "abbreviation": "NO"
+            "city": "Oslo"
         },
         {
             "country": "Oman",
-            "abbreviation": "OM"
+            "city": "Masqat"
         },
         {
             "country": "Pakistan",
-            "abbreviation": "PK"
+            "city": "Islamabad"
         },
         {
             "country": "Palau",
-            "abbreviation": "PW"
+            "city": "Koror"
         },
         {
             "country": "Palestine",
-            "abbreviation": "PS"
+            "city": "Gaza"
         },
         {
             "country": "Panama",
-            "abbreviation": "PA"
+            "city": "Ciudad de Panam"
         },
         {
             "country": "Papua New Guinea",
-            "abbreviation": "PG"
+            "city": "Port Moresby"
         },
         {
             "country": "Paraguay",
-            "abbreviation": "PY"
+            "city": "Asunci"
         },
         {
             "country": "Peru",
-            "abbreviation": "PE"
+            "city": "Lima"
         },
         {
             "country": "Philippines",
-            "abbreviation": "PH"
+            "city": "Manila"
         },
         {
             "country": "Pitcairn",
-            "abbreviation": "PN"
+            "city": "Adamstown"
         },
         {
             "country": "Poland",
-            "abbreviation": "PL"
+            "city": "Warszawa"
         },
         {
             "country": "Portugal",
-            "abbreviation": "PT"
+            "city": "Lisboa"
         },
         {
             "country": "Puerto Rico",
-            "abbreviation": "PR"
+            "city": "San Juan"
         },
         {
             "country": "Qatar",
-            "abbreviation": "QA"
+            "city": "Doha"
         },
         {
             "country": "Reunion",
-            "abbreviation": "RE"
+            "city": "Saint-Denis"
         },
         {
             "country": "Romania",
-            "abbreviation": "RO"
+            "city": "Bucuresti"
         },
         {
             "country": "Russian Federation",
-            "abbreviation": "RU"
+            "city": "Moscow"
         },
         {
             "country": "Rwanda",
-            "abbreviation": "RW"
+            "city": "Kigali"
         },
         {
             "country": "Saint Helena",
-            "abbreviation": "SH"
+            "city": "Jamestown"
         },
         {
             "country": "Saint Kitts and Nevis",
-            "abbreviation": "KN"
+            "city": "Basseterre"
         },
         {
             "country": "Saint Lucia",
-            "abbreviation": "LC"
+            "city": "Castries"
         },
         {
             "country": "Saint Pierre and Miquelon",
-            "abbreviation": "PM"
+            "city": "Saint-Pierre"
         },
         {
             "country": "Saint Vincent and the Grenadines",
-            "abbreviation": "VC"
+            "city": "Kingstown"
         },
         {
             "country": "Samoa",
-            "abbreviation": "WS"
+            "city": "Apia"
         },
         {
             "country": "San Marino",
-            "abbreviation": "SM"
+            "city": "San Marino"
         },
         {
             "country": "Sao Tome and Principe",
-            "abbreviation": "ST"
+            "city": "S"
         },
         {
             "country": "Saudi Arabia",
-            "abbreviation": "SA"
+            "city": "Riyadh"
+        },
+        {
+            "country": "Scotland",
+            "city": "Edinburgh"
         },
         {
             "country": "Senegal",
-            "abbreviation": "SN"
+            "city": "Dakar"
         },
         {
             "country": "Seychelles",
-            "abbreviation": "SC"
+            "city": "Victoria"
         },
         {
             "country": "Sierra Leone",
-            "abbreviation": "SL"
+            "city": "Freetown"
         },
         {
             "country": "Singapore",
-            "abbreviation": "SG"
+            "city": "Singapore"
         },
         {
             "country": "Slovakia",
-            "abbreviation": "SK"
+            "city": "Bratislava"
         },
         {
             "country": "Slovenia",
-            "abbreviation": "SI"
+            "city": "Ljubljana"
         },
         {
             "country": "Solomon Islands",
-            "abbreviation": "SB"
+            "city": "Honiara"
         },
         {
             "country": "Somalia",
-            "abbreviation": "SO"
+            "city": "Mogadishu"
         },
         {
             "country": "South Africa",
-            "abbreviation": "ZA"
+            "city": "Pretoria"
         },
         {
             "country": "South Georgia and the South Sandwich Islands",
-            "abbreviation": "GS"
+            "city": null
         },
         {
             "country": "South Korea",
-            "abbreviation": "KR"
+            "city": "Seoul"
         },
         {
             "country": "South Sudan",
-            "abbreviation": "SS"
+            "city": "Juba"
         },
         {
             "country": "Spain",
-            "abbreviation": "ES"
+            "city": "Madrid"
         },
         {
-            "country": "Sri Lanka",
-            "abbreviation": "LK"
+            "country": "SriLanka",
+            "city": null
         },
         {
             "country": "Sudan",
-            "abbreviation": "SD"
+            "city": "Khartum"
         },
         {
             "country": "Suriname",
-            "abbreviation": "SR"
+            "city": "Paramaribo"
         },
         {
             "country": "Svalbard and Jan Mayen",
-            "abbreviation": "SJ"
+            "city": "Longyearbyen"
         },
         {
             "country": "Swaziland",
-            "abbreviation": "SZ"
+            "city": "Mbabane"
         },
         {
             "country": "Sweden",
-            "abbreviation": "SE"
+            "city": "Stockholm"
         },
         {
             "country": "Switzerland",
-            "abbreviation": "CH"
+            "city": "Bern"
         },
         {
             "country": "Syria",
-            "abbreviation": "SY"
+            "city": "Damascus"
         },
         {
             "country": "Tajikistan",
-            "abbreviation": "TJ"
+            "city": "Dushanbe"
         },
         {
             "country": "Tanzania",
-            "abbreviation": "TZ"
+            "city": "Dodoma"
         },
         {
             "country": "Thailand",
-            "abbreviation": "TH"
+            "city": "Bangkok"
         },
         {
             "country": "The Democratic Republic of Congo",
-            "abbreviation": "CD"
+            "city": null
         },
         {
             "country": "Togo",
-            "abbreviation": "TG"
+            "city": "Lom"
         },
         {
             "country": "Tokelau",
-            "abbreviation": "TK"
+            "city": "Fakaofo"
         },
         {
             "country": "Tonga",
-            "abbreviation": "TO"
+            "city": "Nuku'alofa"
         },
         {
             "country": "Trinidad and Tobago",
-            "abbreviation": "TT"
+            "city": "Port-of-Spain"
         },
         {
             "country": "Tunisia",
-            "abbreviation": "TN"
+            "city": "Tunis"
         },
         {
             "country": "Turkey",
-            "abbreviation": "TR"
+            "city": "Ankara"
         },
         {
             "country": "Turkmenistan",
-            "abbreviation": "TM"
+            "city": "Ashgabat"
         },
         {
             "country": "Turks and Caicos Islands",
-            "abbreviation": "TC"
+            "city": "Cockburn Town"
         },
         {
             "country": "Tuvalu",
-            "abbreviation": "TV"
+            "city": "Funafuti"
         },
         {
             "country": "Uganda",
-            "abbreviation": "UG"
+            "city": "Kampala"
         },
         {
             "country": "Ukraine",
-            "abbreviation": "UA"
+            "city": "Kyiv"
         },
         {
             "country": "United Arab Emirates",
-            "abbreviation": "AE"
+            "city": "Abu Dhabi"
         },
         {
             "country": "United Kingdom",
-            "abbreviation": "GB"
+            "city": "London"
         },
         {
             "country": "United States",
-            "abbreviation": "US"
+            "city": "Washington"
         },
         {
             "country": "United States Minor Outlying Islands",
-            "abbreviation": "UM"
+            "city": null
         },
         {
             "country": "Uruguay",
-            "abbreviation": "UY"
+            "city": "Montevideo"
         },
         {
             "country": "Uzbekistan",
-            "abbreviation": "UZ"
+            "city": "Toskent"
         },
         {
             "country": "Vanuatu",
-            "abbreviation": "VU"
+            "city": "Port-Vila"
         },
         {
             "country": "Venezuela",
-            "abbreviation": "VE"
+            "city": "Caracas"
         },
         {
             "country": "Vietnam",
-            "abbreviation": "VN"
+            "city": "Hanoi"
         },
         {
             "country": "Virgin Islands, British",
-            "abbreviation": "VG"
+            "city": "Road Town"
         },
         {
             "country": "Virgin Islands, U.S.",
-            "abbreviation": "VI"
+            "city": "Charlotte Amalie"
+        },
+        {
+            "country": "Wales",
+            "city": "Cardiff"
         },
         {
             "country": "Wallis and Futuna",
-            "abbreviation": "WF"
+            "city": "Mata-Utu"
         },
         {
             "country": "Western Sahara",
-            "abbreviation": "EH"
+            "city": "El-Aai"
         },
         {
             "country": "Yemen",
-            "abbreviation": "YE"
+            "city": "Sanaa"
         },
         {
             "country": "Yugoslavia",
-            "abbreviation": "YU"
+            "city": "Beograd"
         },
         {
             "country": "Zambia",
-            "abbreviation": "ZM"
+            "city": "Lusaka"
         },
         {
             "country": "Zimbabwe",
-            "abbreviation": "ZW"
+            "city": "Harare"
         }
     ]
 }
